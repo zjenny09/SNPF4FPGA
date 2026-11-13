@@ -1,0 +1,8 @@
+The project-authored processed data, tables, manifests, and documentation in this
+repository are released under the MIT License in `LICENSE`.
+
+Copyright (c) 2026 Dr. Zhou.
+
+Third-party benchmark RTL, netlists, architecture files, and CAD tools are NOT
+distributed in this repository and remain subject to their original terms; see
+`NOTICE.md` and the per-design provenance records under `data/protocol/`.

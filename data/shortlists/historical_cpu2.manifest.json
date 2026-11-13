@@ -1,0 +1,8 @@
+{
+  "group_id": "historical_cpu2",
+  "model_sha256": "90a01976b3c6a0c9d0d0bdd0a86b779c0b58b97b4604c1ab09090d9b981f5cfa",
+  "protocol_sha256": "24d5c55a9acd96cd2996d3bb7bb8ef4b11aa2f45086781dfe725d33e6d0976da",
+  "shortlist_frozen_at": "2026-10-27T12:33:43.935877+00:00",
+  "shortlist_sha256": "a1297d33319547593b9a7fe483848e9c06d1486ab5f3c75a63c1c719f983464e",
+  "task_id": "snpf4fpga-known-set-shared-parameters-v1"
+}

@@ -1,0 +1,8 @@
+{
+  "group_id": "sensitivity_weighted4_source",
+  "model_sha256": "d29c1b27cfcddc9e3aaf3f56303e21d063ba4bdd113cc228d29761343d19ca04",
+  "protocol_sha256": "24d5c55a9acd96cd2996d3bb7bb8ef4b11aa2f45086781dfe725d33e6d0976da",
+  "shortlist_frozen_at": "2026-10-27T12:33:55.445166+00:00",
+  "shortlist_sha256": "10bb6ed22cb1f1ef0337438735c0e0116a41c478f68ff5c3ac2da693cad8458a",
+  "task_id": "snpf4fpga-known-set-shared-parameters-v1"
+}

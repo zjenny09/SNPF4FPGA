@@ -1,0 +1,8 @@
+{
+  "group_id": "historical_serial3",
+  "model_sha256": "d363d5296940b587c9f2ec7b31da15b17c9247427ee2fb54683e4626f98f654c",
+  "protocol_sha256": "24d5c55a9acd96cd2996d3bb7bb8ef4b11aa2f45086781dfe725d33e6d0976da",
+  "shortlist_frozen_at": "2026-10-27T12:33:43.687295+00:00",
+  "shortlist_sha256": "2fc864c0af63e2df5401bc34d7ac18d2aacbdd7be20dcf0a61d1271b44b4aa03",
+  "task_id": "snpf4fpga-known-set-shared-parameters-v1"
+}

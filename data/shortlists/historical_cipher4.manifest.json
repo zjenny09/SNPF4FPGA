@@ -1,0 +1,8 @@
+{
+  "group_id": "historical_cipher4",
+  "model_sha256": "1c063c30b819b13381b11979fc368efabaacac437b446d813f1117131997db5b",
+  "protocol_sha256": "24d5c55a9acd96cd2996d3bb7bb8ef4b11aa2f45086781dfe725d33e6d0976da",
+  "shortlist_frozen_at": "2026-10-27T12:33:45.557021+00:00",
+  "shortlist_sha256": "d02dbfc629d7b883612acf9431e31378092db1a7b60d85e10787c88dc42c1aab",
+  "task_id": "snpf4fpga-known-set-shared-parameters-v1"
+}

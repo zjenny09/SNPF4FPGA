@@ -1,0 +1,3170 @@
+[
+  {
+    "family_ids": [
+      "dsp/cordic",
+      "dsp/diffeq1_vtr"
+    ],
+    "group_id": "arithmetic_iteration_m2_cb57d605e9ebaf1c",
+    "members": [
+      "dsp/cordic",
+      "dsp/diffeq1_vtr"
+    ],
+    "scene_id": "arithmetic_iteration"
+  },
+  {
+    "family_ids": [
+      "dsp/cordic",
+      "dsp/diffeq1_vtr"
+    ],
+    "group_id": "arithmetic_iteration_m2_246a6bdc9a57f9d1",
+    "members": [
+      "dsp/cordic",
+      "dsp/diffeq2_vtr"
+    ],
+    "scene_id": "arithmetic_iteration"
+  },
+  {
+    "family_ids": [
+      "crypto/aes_cipher_vtr",
+      "crypto/opencores_des3"
+    ],
+    "group_id": "cipher_datapath_m2_05454edfbd9ccd43",
+    "members": [
+      "crypto/aes_cipher_vtr",
+      "crypto/opencores_des3"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/aes_cipher_vtr",
+      "crypto/secworks_aes"
+    ],
+    "group_id": "cipher_datapath_m2_82c490bc1a38b758",
+    "members": [
+      "crypto/aes_cipher_vtr",
+      "crypto/secworks_aes"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/aes_cipher_vtr",
+      "crypto/secworks_chacha"
+    ],
+    "group_id": "cipher_datapath_m2_33248e079bd1b647",
+    "members": [
+      "crypto/aes_cipher_vtr",
+      "crypto/secworks_chacha"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/aes_cipher_vtr",
+      "crypto/secworks_prince"
+    ],
+    "group_id": "cipher_datapath_m2_a1e6049e95482af0",
+    "members": [
+      "crypto/aes_cipher_vtr",
+      "crypto/secworks_prince"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/aes_cipher_vtr",
+      "crypto/xtea_vtr"
+    ],
+    "group_id": "cipher_datapath_m2_54572b1b418f9514",
+    "members": [
+      "crypto/aes_cipher_vtr",
+      "crypto/xtea_vtr"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/aes_cipher_vtr",
+      "crypto/opencores_des3"
+    ],
+    "group_id": "cipher_datapath_m2_89c69f36bb4c6896",
+    "members": [
+      "crypto/aes_inv_cipher_vtr",
+      "crypto/opencores_des3"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/aes_cipher_vtr",
+      "crypto/secworks_aes"
+    ],
+    "group_id": "cipher_datapath_m2_ffbc36bc55bbd60d",
+    "members": [
+      "crypto/aes_inv_cipher_vtr",
+      "crypto/secworks_aes"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/aes_cipher_vtr",
+      "crypto/secworks_chacha"
+    ],
+    "group_id": "cipher_datapath_m2_337caf2a40bfe454",
+    "members": [
+      "crypto/aes_inv_cipher_vtr",
+      "crypto/secworks_chacha"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/aes_cipher_vtr",
+      "crypto/secworks_prince"
+    ],
+    "group_id": "cipher_datapath_m2_cc7a36c063b96aa0",
+    "members": [
+      "crypto/aes_inv_cipher_vtr",
+      "crypto/secworks_prince"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/aes_cipher_vtr",
+      "crypto/xtea_vtr"
+    ],
+    "group_id": "cipher_datapath_m2_92a374f45fe1b25e",
+    "members": [
+      "crypto/aes_inv_cipher_vtr",
+      "crypto/xtea_vtr"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/opencores_des3",
+      "crypto/secworks_aes"
+    ],
+    "group_id": "cipher_datapath_m2_3f41babb82dbed1d",
+    "members": [
+      "crypto/opencores_des3",
+      "crypto/secworks_aes"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/opencores_des3",
+      "crypto/secworks_chacha"
+    ],
+    "group_id": "cipher_datapath_m2_0c6d573ac836e96d",
+    "members": [
+      "crypto/opencores_des3",
+      "crypto/secworks_chacha"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/opencores_des3",
+      "crypto/secworks_prince"
+    ],
+    "group_id": "cipher_datapath_m2_cb316a09f1bb8e19",
+    "members": [
+      "crypto/opencores_des3",
+      "crypto/secworks_prince"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/opencores_des3",
+      "crypto/xtea_vtr"
+    ],
+    "group_id": "cipher_datapath_m2_ac0b46edcb983f34",
+    "members": [
+      "crypto/opencores_des3",
+      "crypto/xtea_vtr"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/secworks_aes",
+      "crypto/secworks_chacha"
+    ],
+    "group_id": "cipher_datapath_m2_67e2d068dd572133",
+    "members": [
+      "crypto/secworks_aes",
+      "crypto/secworks_chacha"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/secworks_aes",
+      "crypto/secworks_prince"
+    ],
+    "group_id": "cipher_datapath_m2_8b6b9ecec754a090",
+    "members": [
+      "crypto/secworks_aes",
+      "crypto/secworks_prince"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/secworks_aes",
+      "crypto/xtea_vtr"
+    ],
+    "group_id": "cipher_datapath_m2_53b867659c75c1c4",
+    "members": [
+      "crypto/secworks_aes",
+      "crypto/xtea_vtr"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/secworks_chacha",
+      "crypto/secworks_prince"
+    ],
+    "group_id": "cipher_datapath_m2_ebbd0a3aeb614c5b",
+    "members": [
+      "crypto/secworks_chacha",
+      "crypto/secworks_prince"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/secworks_chacha",
+      "crypto/xtea_vtr"
+    ],
+    "group_id": "cipher_datapath_m2_11bfc61df5b0e088",
+    "members": [
+      "crypto/secworks_chacha",
+      "crypto/xtea_vtr"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/secworks_prince",
+      "crypto/xtea_vtr"
+    ],
+    "group_id": "cipher_datapath_m2_4c22bac87ac7a668",
+    "members": [
+      "crypto/secworks_prince",
+      "crypto/xtea_vtr"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/aes_cipher_vtr",
+      "crypto/opencores_des3",
+      "crypto/secworks_aes"
+    ],
+    "group_id": "cipher_datapath_m3_9d0df9c19d6573bc",
+    "members": [
+      "crypto/aes_cipher_vtr",
+      "crypto/opencores_des3",
+      "crypto/secworks_aes"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/aes_cipher_vtr",
+      "crypto/opencores_des3",
+      "crypto/secworks_chacha"
+    ],
+    "group_id": "cipher_datapath_m3_026fa6638a133703",
+    "members": [
+      "crypto/aes_cipher_vtr",
+      "crypto/opencores_des3",
+      "crypto/secworks_chacha"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/aes_cipher_vtr",
+      "crypto/opencores_des3",
+      "crypto/secworks_prince"
+    ],
+    "group_id": "cipher_datapath_m3_0f3091a709d77036",
+    "members": [
+      "crypto/aes_cipher_vtr",
+      "crypto/opencores_des3",
+      "crypto/secworks_prince"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/aes_cipher_vtr",
+      "crypto/opencores_des3",
+      "crypto/xtea_vtr"
+    ],
+    "group_id": "cipher_datapath_m3_ce26a8c2a76eb8de",
+    "members": [
+      "crypto/aes_cipher_vtr",
+      "crypto/opencores_des3",
+      "crypto/xtea_vtr"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/aes_cipher_vtr",
+      "crypto/secworks_aes",
+      "crypto/secworks_chacha"
+    ],
+    "group_id": "cipher_datapath_m3_67837d7541f761e5",
+    "members": [
+      "crypto/aes_cipher_vtr",
+      "crypto/secworks_aes",
+      "crypto/secworks_chacha"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/aes_cipher_vtr",
+      "crypto/secworks_aes",
+      "crypto/secworks_prince"
+    ],
+    "group_id": "cipher_datapath_m3_b7a45457cf4527ca",
+    "members": [
+      "crypto/aes_cipher_vtr",
+      "crypto/secworks_aes",
+      "crypto/secworks_prince"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/aes_cipher_vtr",
+      "crypto/secworks_aes",
+      "crypto/xtea_vtr"
+    ],
+    "group_id": "cipher_datapath_m3_d736a4a9527c6130",
+    "members": [
+      "crypto/aes_cipher_vtr",
+      "crypto/secworks_aes",
+      "crypto/xtea_vtr"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/aes_cipher_vtr",
+      "crypto/secworks_chacha",
+      "crypto/secworks_prince"
+    ],
+    "group_id": "cipher_datapath_m3_cfecff1a3d9ca6f6",
+    "members": [
+      "crypto/aes_cipher_vtr",
+      "crypto/secworks_chacha",
+      "crypto/secworks_prince"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/aes_cipher_vtr",
+      "crypto/secworks_chacha",
+      "crypto/xtea_vtr"
+    ],
+    "group_id": "cipher_datapath_m3_d4d7c6249d82e3e9",
+    "members": [
+      "crypto/aes_cipher_vtr",
+      "crypto/secworks_chacha",
+      "crypto/xtea_vtr"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/aes_cipher_vtr",
+      "crypto/secworks_prince",
+      "crypto/xtea_vtr"
+    ],
+    "group_id": "cipher_datapath_m3_1feb73fbef0c4584",
+    "members": [
+      "crypto/aes_cipher_vtr",
+      "crypto/secworks_prince",
+      "crypto/xtea_vtr"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/aes_cipher_vtr",
+      "crypto/opencores_des3",
+      "crypto/secworks_aes"
+    ],
+    "group_id": "cipher_datapath_m3_9fd6ebd203b2b3c1",
+    "members": [
+      "crypto/aes_inv_cipher_vtr",
+      "crypto/opencores_des3",
+      "crypto/secworks_aes"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/aes_cipher_vtr",
+      "crypto/opencores_des3",
+      "crypto/secworks_chacha"
+    ],
+    "group_id": "cipher_datapath_m3_ef91fde02296f1a8",
+    "members": [
+      "crypto/aes_inv_cipher_vtr",
+      "crypto/opencores_des3",
+      "crypto/secworks_chacha"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/aes_cipher_vtr",
+      "crypto/opencores_des3",
+      "crypto/secworks_prince"
+    ],
+    "group_id": "cipher_datapath_m3_332db4e9741e92c2",
+    "members": [
+      "crypto/aes_inv_cipher_vtr",
+      "crypto/opencores_des3",
+      "crypto/secworks_prince"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/aes_cipher_vtr",
+      "crypto/opencores_des3",
+      "crypto/xtea_vtr"
+    ],
+    "group_id": "cipher_datapath_m3_339c5bf629970344",
+    "members": [
+      "crypto/aes_inv_cipher_vtr",
+      "crypto/opencores_des3",
+      "crypto/xtea_vtr"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/aes_cipher_vtr",
+      "crypto/secworks_aes",
+      "crypto/secworks_chacha"
+    ],
+    "group_id": "cipher_datapath_m3_bbafc673c91db21d",
+    "members": [
+      "crypto/aes_inv_cipher_vtr",
+      "crypto/secworks_aes",
+      "crypto/secworks_chacha"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/aes_cipher_vtr",
+      "crypto/secworks_aes",
+      "crypto/secworks_prince"
+    ],
+    "group_id": "cipher_datapath_m3_ffc9b148617e2170",
+    "members": [
+      "crypto/aes_inv_cipher_vtr",
+      "crypto/secworks_aes",
+      "crypto/secworks_prince"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/aes_cipher_vtr",
+      "crypto/secworks_aes",
+      "crypto/xtea_vtr"
+    ],
+    "group_id": "cipher_datapath_m3_189a4536f2d3f45a",
+    "members": [
+      "crypto/aes_inv_cipher_vtr",
+      "crypto/secworks_aes",
+      "crypto/xtea_vtr"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/aes_cipher_vtr",
+      "crypto/secworks_chacha",
+      "crypto/secworks_prince"
+    ],
+    "group_id": "cipher_datapath_m3_b0b45d35bccc2550",
+    "members": [
+      "crypto/aes_inv_cipher_vtr",
+      "crypto/secworks_chacha",
+      "crypto/secworks_prince"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/aes_cipher_vtr",
+      "crypto/secworks_chacha",
+      "crypto/xtea_vtr"
+    ],
+    "group_id": "cipher_datapath_m3_c5ba162d0d82aad6",
+    "members": [
+      "crypto/aes_inv_cipher_vtr",
+      "crypto/secworks_chacha",
+      "crypto/xtea_vtr"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/aes_cipher_vtr",
+      "crypto/secworks_prince",
+      "crypto/xtea_vtr"
+    ],
+    "group_id": "cipher_datapath_m3_bb9b0596246e9a25",
+    "members": [
+      "crypto/aes_inv_cipher_vtr",
+      "crypto/secworks_prince",
+      "crypto/xtea_vtr"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/opencores_des3",
+      "crypto/secworks_aes",
+      "crypto/secworks_chacha"
+    ],
+    "group_id": "cipher_datapath_m3_51f7a403be44f8c6",
+    "members": [
+      "crypto/opencores_des3",
+      "crypto/secworks_aes",
+      "crypto/secworks_chacha"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/opencores_des3",
+      "crypto/secworks_aes",
+      "crypto/secworks_prince"
+    ],
+    "group_id": "cipher_datapath_m3_f13ac7af6ecce83b",
+    "members": [
+      "crypto/opencores_des3",
+      "crypto/secworks_aes",
+      "crypto/secworks_prince"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/opencores_des3",
+      "crypto/secworks_aes",
+      "crypto/xtea_vtr"
+    ],
+    "group_id": "cipher_datapath_m3_baae865a1458815d",
+    "members": [
+      "crypto/opencores_des3",
+      "crypto/secworks_aes",
+      "crypto/xtea_vtr"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/opencores_des3",
+      "crypto/secworks_chacha",
+      "crypto/secworks_prince"
+    ],
+    "group_id": "cipher_datapath_m3_b52ffc1b2ad97834",
+    "members": [
+      "crypto/opencores_des3",
+      "crypto/secworks_chacha",
+      "crypto/secworks_prince"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/opencores_des3",
+      "crypto/secworks_chacha",
+      "crypto/xtea_vtr"
+    ],
+    "group_id": "cipher_datapath_m3_0c7fab10fce2b9f1",
+    "members": [
+      "crypto/opencores_des3",
+      "crypto/secworks_chacha",
+      "crypto/xtea_vtr"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/opencores_des3",
+      "crypto/secworks_prince",
+      "crypto/xtea_vtr"
+    ],
+    "group_id": "cipher_datapath_m3_0c8b733b0d6c9a0c",
+    "members": [
+      "crypto/opencores_des3",
+      "crypto/secworks_prince",
+      "crypto/xtea_vtr"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/secworks_aes",
+      "crypto/secworks_chacha",
+      "crypto/secworks_prince"
+    ],
+    "group_id": "cipher_datapath_m3_df3cb7052c33e164",
+    "members": [
+      "crypto/secworks_aes",
+      "crypto/secworks_chacha",
+      "crypto/secworks_prince"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/secworks_aes",
+      "crypto/secworks_chacha",
+      "crypto/xtea_vtr"
+    ],
+    "group_id": "cipher_datapath_m3_8e0652053f3d3253",
+    "members": [
+      "crypto/secworks_aes",
+      "crypto/secworks_chacha",
+      "crypto/xtea_vtr"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/secworks_aes",
+      "crypto/secworks_prince",
+      "crypto/xtea_vtr"
+    ],
+    "group_id": "cipher_datapath_m3_209faed84b228743",
+    "members": [
+      "crypto/secworks_aes",
+      "crypto/secworks_prince",
+      "crypto/xtea_vtr"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/secworks_chacha",
+      "crypto/secworks_prince",
+      "crypto/xtea_vtr"
+    ],
+    "group_id": "cipher_datapath_m3_6ba447397c925ecb",
+    "members": [
+      "crypto/secworks_chacha",
+      "crypto/secworks_prince",
+      "crypto/xtea_vtr"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/aes_cipher_vtr",
+      "crypto/opencores_des3",
+      "crypto/secworks_aes",
+      "crypto/secworks_chacha"
+    ],
+    "group_id": "cipher_datapath_m4_e289d952f6412a84",
+    "members": [
+      "crypto/aes_cipher_vtr",
+      "crypto/opencores_des3",
+      "crypto/secworks_aes",
+      "crypto/secworks_chacha"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/aes_cipher_vtr",
+      "crypto/opencores_des3",
+      "crypto/secworks_aes",
+      "crypto/secworks_prince"
+    ],
+    "group_id": "cipher_datapath_m4_1204a3cf17972e10",
+    "members": [
+      "crypto/aes_cipher_vtr",
+      "crypto/opencores_des3",
+      "crypto/secworks_aes",
+      "crypto/secworks_prince"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/aes_cipher_vtr",
+      "crypto/opencores_des3",
+      "crypto/secworks_aes",
+      "crypto/xtea_vtr"
+    ],
+    "group_id": "cipher_datapath_m4_aa323964d96d689e",
+    "members": [
+      "crypto/aes_cipher_vtr",
+      "crypto/opencores_des3",
+      "crypto/secworks_aes",
+      "crypto/xtea_vtr"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/aes_cipher_vtr",
+      "crypto/opencores_des3",
+      "crypto/secworks_chacha",
+      "crypto/secworks_prince"
+    ],
+    "group_id": "cipher_datapath_m4_18ee540297048f87",
+    "members": [
+      "crypto/aes_cipher_vtr",
+      "crypto/opencores_des3",
+      "crypto/secworks_chacha",
+      "crypto/secworks_prince"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/aes_cipher_vtr",
+      "crypto/opencores_des3",
+      "crypto/secworks_chacha",
+      "crypto/xtea_vtr"
+    ],
+    "group_id": "cipher_datapath_m4_cf16c36df430a443",
+    "members": [
+      "crypto/aes_cipher_vtr",
+      "crypto/opencores_des3",
+      "crypto/secworks_chacha",
+      "crypto/xtea_vtr"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/aes_cipher_vtr",
+      "crypto/opencores_des3",
+      "crypto/secworks_prince",
+      "crypto/xtea_vtr"
+    ],
+    "group_id": "cipher_datapath_m4_bf8caae5f1df5a1f",
+    "members": [
+      "crypto/aes_cipher_vtr",
+      "crypto/opencores_des3",
+      "crypto/secworks_prince",
+      "crypto/xtea_vtr"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/aes_cipher_vtr",
+      "crypto/secworks_aes",
+      "crypto/secworks_chacha",
+      "crypto/secworks_prince"
+    ],
+    "group_id": "cipher_datapath_m4_c699cf7946fb6158",
+    "members": [
+      "crypto/aes_cipher_vtr",
+      "crypto/secworks_aes",
+      "crypto/secworks_chacha",
+      "crypto/secworks_prince"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/aes_cipher_vtr",
+      "crypto/secworks_aes",
+      "crypto/secworks_chacha",
+      "crypto/xtea_vtr"
+    ],
+    "group_id": "cipher_datapath_m4_9324bb8d46fea4ee",
+    "members": [
+      "crypto/aes_cipher_vtr",
+      "crypto/secworks_aes",
+      "crypto/secworks_chacha",
+      "crypto/xtea_vtr"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/aes_cipher_vtr",
+      "crypto/secworks_aes",
+      "crypto/secworks_prince",
+      "crypto/xtea_vtr"
+    ],
+    "group_id": "cipher_datapath_m4_8983159c6c780cc8",
+    "members": [
+      "crypto/aes_cipher_vtr",
+      "crypto/secworks_aes",
+      "crypto/secworks_prince",
+      "crypto/xtea_vtr"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/aes_cipher_vtr",
+      "crypto/secworks_chacha",
+      "crypto/secworks_prince",
+      "crypto/xtea_vtr"
+    ],
+    "group_id": "cipher_datapath_m4_6d6c052464655e83",
+    "members": [
+      "crypto/aes_cipher_vtr",
+      "crypto/secworks_chacha",
+      "crypto/secworks_prince",
+      "crypto/xtea_vtr"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/aes_cipher_vtr",
+      "crypto/opencores_des3",
+      "crypto/secworks_aes",
+      "crypto/secworks_chacha"
+    ],
+    "group_id": "cipher_datapath_m4_5bbc663da615dbe5",
+    "members": [
+      "crypto/aes_inv_cipher_vtr",
+      "crypto/opencores_des3",
+      "crypto/secworks_aes",
+      "crypto/secworks_chacha"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/aes_cipher_vtr",
+      "crypto/opencores_des3",
+      "crypto/secworks_aes",
+      "crypto/secworks_prince"
+    ],
+    "group_id": "cipher_datapath_m4_88315f48bfd2f27e",
+    "members": [
+      "crypto/aes_inv_cipher_vtr",
+      "crypto/opencores_des3",
+      "crypto/secworks_aes",
+      "crypto/secworks_prince"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/aes_cipher_vtr",
+      "crypto/opencores_des3",
+      "crypto/secworks_aes",
+      "crypto/xtea_vtr"
+    ],
+    "group_id": "cipher_datapath_m4_c5bfbc52edb44fe0",
+    "members": [
+      "crypto/aes_inv_cipher_vtr",
+      "crypto/opencores_des3",
+      "crypto/secworks_aes",
+      "crypto/xtea_vtr"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/aes_cipher_vtr",
+      "crypto/opencores_des3",
+      "crypto/secworks_chacha",
+      "crypto/secworks_prince"
+    ],
+    "group_id": "cipher_datapath_m4_ba19abdd1dec3fde",
+    "members": [
+      "crypto/aes_inv_cipher_vtr",
+      "crypto/opencores_des3",
+      "crypto/secworks_chacha",
+      "crypto/secworks_prince"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/aes_cipher_vtr",
+      "crypto/opencores_des3",
+      "crypto/secworks_chacha",
+      "crypto/xtea_vtr"
+    ],
+    "group_id": "cipher_datapath_m4_02a7223c14509703",
+    "members": [
+      "crypto/aes_inv_cipher_vtr",
+      "crypto/opencores_des3",
+      "crypto/secworks_chacha",
+      "crypto/xtea_vtr"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/aes_cipher_vtr",
+      "crypto/opencores_des3",
+      "crypto/secworks_prince",
+      "crypto/xtea_vtr"
+    ],
+    "group_id": "cipher_datapath_m4_43060378ec8397c8",
+    "members": [
+      "crypto/aes_inv_cipher_vtr",
+      "crypto/opencores_des3",
+      "crypto/secworks_prince",
+      "crypto/xtea_vtr"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/aes_cipher_vtr",
+      "crypto/secworks_aes",
+      "crypto/secworks_chacha",
+      "crypto/secworks_prince"
+    ],
+    "group_id": "cipher_datapath_m4_fb7a34be86c94e11",
+    "members": [
+      "crypto/aes_inv_cipher_vtr",
+      "crypto/secworks_aes",
+      "crypto/secworks_chacha",
+      "crypto/secworks_prince"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/aes_cipher_vtr",
+      "crypto/secworks_aes",
+      "crypto/secworks_chacha",
+      "crypto/xtea_vtr"
+    ],
+    "group_id": "cipher_datapath_m4_5d3bae077a010179",
+    "members": [
+      "crypto/aes_inv_cipher_vtr",
+      "crypto/secworks_aes",
+      "crypto/secworks_chacha",
+      "crypto/xtea_vtr"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/aes_cipher_vtr",
+      "crypto/secworks_aes",
+      "crypto/secworks_prince",
+      "crypto/xtea_vtr"
+    ],
+    "group_id": "cipher_datapath_m4_fd26c8e4aa2d8be7",
+    "members": [
+      "crypto/aes_inv_cipher_vtr",
+      "crypto/secworks_aes",
+      "crypto/secworks_prince",
+      "crypto/xtea_vtr"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/aes_cipher_vtr",
+      "crypto/secworks_chacha",
+      "crypto/secworks_prince",
+      "crypto/xtea_vtr"
+    ],
+    "group_id": "cipher_datapath_m4_a9c5d8b8a9f9303c",
+    "members": [
+      "crypto/aes_inv_cipher_vtr",
+      "crypto/secworks_chacha",
+      "crypto/secworks_prince",
+      "crypto/xtea_vtr"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/opencores_des3",
+      "crypto/secworks_aes",
+      "crypto/secworks_chacha",
+      "crypto/secworks_prince"
+    ],
+    "group_id": "cipher_datapath_m4_99302cba64a24b88",
+    "members": [
+      "crypto/opencores_des3",
+      "crypto/secworks_aes",
+      "crypto/secworks_chacha",
+      "crypto/secworks_prince"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/opencores_des3",
+      "crypto/secworks_aes",
+      "crypto/secworks_chacha",
+      "crypto/xtea_vtr"
+    ],
+    "group_id": "cipher_datapath_m4_b0c4a2d97e7db6d9",
+    "members": [
+      "crypto/opencores_des3",
+      "crypto/secworks_aes",
+      "crypto/secworks_chacha",
+      "crypto/xtea_vtr"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/opencores_des3",
+      "crypto/secworks_aes",
+      "crypto/secworks_prince",
+      "crypto/xtea_vtr"
+    ],
+    "group_id": "cipher_datapath_m4_42017faffe7febd1",
+    "members": [
+      "crypto/opencores_des3",
+      "crypto/secworks_aes",
+      "crypto/secworks_prince",
+      "crypto/xtea_vtr"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/opencores_des3",
+      "crypto/secworks_chacha",
+      "crypto/secworks_prince",
+      "crypto/xtea_vtr"
+    ],
+    "group_id": "cipher_datapath_m4_5889d7d2ff7d9927",
+    "members": [
+      "crypto/opencores_des3",
+      "crypto/secworks_chacha",
+      "crypto/secworks_prince",
+      "crypto/xtea_vtr"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/secworks_aes",
+      "crypto/secworks_chacha",
+      "crypto/secworks_prince",
+      "crypto/xtea_vtr"
+    ],
+    "group_id": "cipher_datapath_m4_3dcdeddbeb808401",
+    "members": [
+      "crypto/secworks_aes",
+      "crypto/secworks_chacha",
+      "crypto/secworks_prince",
+      "crypto/xtea_vtr"
+    ],
+    "scene_id": "cipher_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/secworks_blake2s",
+      "crypto/secworks_md5"
+    ],
+    "group_id": "hash_datapath_m2_4a4afb85b089c4b4",
+    "members": [
+      "crypto/secworks_blake2s",
+      "crypto/secworks_md5"
+    ],
+    "scene_id": "hash_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/secworks_blake2s",
+      "crypto/secworks_sha256"
+    ],
+    "group_id": "hash_datapath_m2_821e930731429211",
+    "members": [
+      "crypto/secworks_blake2s",
+      "crypto/secworks_sha256"
+    ],
+    "scene_id": "hash_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/secworks_blake2s",
+      "crypto/secworks_sha3"
+    ],
+    "group_id": "hash_datapath_m2_0c48abab0cab0b33",
+    "members": [
+      "crypto/secworks_blake2s",
+      "crypto/secworks_sha3"
+    ],
+    "scene_id": "hash_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/secworks_blake2s",
+      "crypto/sha_vtr"
+    ],
+    "group_id": "hash_datapath_m2_960a212c23e0c2b2",
+    "members": [
+      "crypto/secworks_blake2s",
+      "crypto/sha_vtr"
+    ],
+    "scene_id": "hash_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/secworks_md5",
+      "crypto/secworks_sha256"
+    ],
+    "group_id": "hash_datapath_m2_b0dbad0085f9bc07",
+    "members": [
+      "crypto/secworks_md5",
+      "crypto/secworks_sha256"
+    ],
+    "scene_id": "hash_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/secworks_md5",
+      "crypto/secworks_sha3"
+    ],
+    "group_id": "hash_datapath_m2_a171e9643eedfff5",
+    "members": [
+      "crypto/secworks_md5",
+      "crypto/secworks_sha3"
+    ],
+    "scene_id": "hash_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/secworks_md5",
+      "crypto/sha_vtr"
+    ],
+    "group_id": "hash_datapath_m2_750eb7a64259ea77",
+    "members": [
+      "crypto/secworks_md5",
+      "crypto/sha_vtr"
+    ],
+    "scene_id": "hash_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/secworks_sha256",
+      "crypto/secworks_sha3"
+    ],
+    "group_id": "hash_datapath_m2_576e950d971fd287",
+    "members": [
+      "crypto/secworks_sha256",
+      "crypto/secworks_sha3"
+    ],
+    "scene_id": "hash_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/secworks_sha256",
+      "crypto/sha_vtr"
+    ],
+    "group_id": "hash_datapath_m2_fa460b444882ea41",
+    "members": [
+      "crypto/secworks_sha256",
+      "crypto/sha_vtr"
+    ],
+    "scene_id": "hash_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/secworks_sha3",
+      "crypto/sha_vtr"
+    ],
+    "group_id": "hash_datapath_m2_a06c80828430ee59",
+    "members": [
+      "crypto/secworks_sha3",
+      "crypto/sha_vtr"
+    ],
+    "scene_id": "hash_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/secworks_blake2s",
+      "crypto/secworks_md5",
+      "crypto/secworks_sha256"
+    ],
+    "group_id": "hash_datapath_m3_a68a2da739f4a21a",
+    "members": [
+      "crypto/secworks_blake2s",
+      "crypto/secworks_md5",
+      "crypto/secworks_sha256"
+    ],
+    "scene_id": "hash_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/secworks_blake2s",
+      "crypto/secworks_md5",
+      "crypto/secworks_sha3"
+    ],
+    "group_id": "hash_datapath_m3_b40c45e852c730fb",
+    "members": [
+      "crypto/secworks_blake2s",
+      "crypto/secworks_md5",
+      "crypto/secworks_sha3"
+    ],
+    "scene_id": "hash_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/secworks_blake2s",
+      "crypto/secworks_md5",
+      "crypto/sha_vtr"
+    ],
+    "group_id": "hash_datapath_m3_13b146122750e83f",
+    "members": [
+      "crypto/secworks_blake2s",
+      "crypto/secworks_md5",
+      "crypto/sha_vtr"
+    ],
+    "scene_id": "hash_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/secworks_blake2s",
+      "crypto/secworks_sha256",
+      "crypto/secworks_sha3"
+    ],
+    "group_id": "hash_datapath_m3_901417673535f081",
+    "members": [
+      "crypto/secworks_blake2s",
+      "crypto/secworks_sha256",
+      "crypto/secworks_sha3"
+    ],
+    "scene_id": "hash_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/secworks_blake2s",
+      "crypto/secworks_sha256",
+      "crypto/sha_vtr"
+    ],
+    "group_id": "hash_datapath_m3_8f4c27acc6db1eb2",
+    "members": [
+      "crypto/secworks_blake2s",
+      "crypto/secworks_sha256",
+      "crypto/sha_vtr"
+    ],
+    "scene_id": "hash_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/secworks_blake2s",
+      "crypto/secworks_sha3",
+      "crypto/sha_vtr"
+    ],
+    "group_id": "hash_datapath_m3_fa4cc48627d7c78e",
+    "members": [
+      "crypto/secworks_blake2s",
+      "crypto/secworks_sha3",
+      "crypto/sha_vtr"
+    ],
+    "scene_id": "hash_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/secworks_md5",
+      "crypto/secworks_sha256",
+      "crypto/secworks_sha3"
+    ],
+    "group_id": "hash_datapath_m3_ebadfa384b93ce2b",
+    "members": [
+      "crypto/secworks_md5",
+      "crypto/secworks_sha256",
+      "crypto/secworks_sha3"
+    ],
+    "scene_id": "hash_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/secworks_md5",
+      "crypto/secworks_sha256",
+      "crypto/sha_vtr"
+    ],
+    "group_id": "hash_datapath_m3_fe8acba0eecb380a",
+    "members": [
+      "crypto/secworks_md5",
+      "crypto/secworks_sha256",
+      "crypto/sha_vtr"
+    ],
+    "scene_id": "hash_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/secworks_md5",
+      "crypto/secworks_sha3",
+      "crypto/sha_vtr"
+    ],
+    "group_id": "hash_datapath_m3_5d5e7c043953a9bb",
+    "members": [
+      "crypto/secworks_md5",
+      "crypto/secworks_sha3",
+      "crypto/sha_vtr"
+    ],
+    "scene_id": "hash_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/secworks_sha256",
+      "crypto/secworks_sha3",
+      "crypto/sha_vtr"
+    ],
+    "group_id": "hash_datapath_m3_13cd300b5e4452ec",
+    "members": [
+      "crypto/secworks_sha256",
+      "crypto/secworks_sha3",
+      "crypto/sha_vtr"
+    ],
+    "scene_id": "hash_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/secworks_blake2s",
+      "crypto/secworks_md5",
+      "crypto/secworks_sha256",
+      "crypto/secworks_sha3"
+    ],
+    "group_id": "hash_datapath_m4_1b0d09b830053389",
+    "members": [
+      "crypto/secworks_blake2s",
+      "crypto/secworks_md5",
+      "crypto/secworks_sha256",
+      "crypto/secworks_sha3"
+    ],
+    "scene_id": "hash_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/secworks_blake2s",
+      "crypto/secworks_md5",
+      "crypto/secworks_sha256",
+      "crypto/sha_vtr"
+    ],
+    "group_id": "hash_datapath_m4_13705f617fdd703d",
+    "members": [
+      "crypto/secworks_blake2s",
+      "crypto/secworks_md5",
+      "crypto/secworks_sha256",
+      "crypto/sha_vtr"
+    ],
+    "scene_id": "hash_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/secworks_blake2s",
+      "crypto/secworks_md5",
+      "crypto/secworks_sha3",
+      "crypto/sha_vtr"
+    ],
+    "group_id": "hash_datapath_m4_d8e66b3974cadc1f",
+    "members": [
+      "crypto/secworks_blake2s",
+      "crypto/secworks_md5",
+      "crypto/secworks_sha3",
+      "crypto/sha_vtr"
+    ],
+    "scene_id": "hash_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/secworks_blake2s",
+      "crypto/secworks_sha256",
+      "crypto/secworks_sha3",
+      "crypto/sha_vtr"
+    ],
+    "group_id": "hash_datapath_m4_c66cad4b553597a5",
+    "members": [
+      "crypto/secworks_blake2s",
+      "crypto/secworks_sha256",
+      "crypto/secworks_sha3",
+      "crypto/sha_vtr"
+    ],
+    "scene_id": "hash_datapath"
+  },
+  {
+    "family_ids": [
+      "crypto/secworks_md5",
+      "crypto/secworks_sha256",
+      "crypto/secworks_sha3",
+      "crypto/sha_vtr"
+    ],
+    "group_id": "hash_datapath_m4_7cae2dc4173c586b",
+    "members": [
+      "crypto/secworks_md5",
+      "crypto/secworks_sha256",
+      "crypto/secworks_sha3",
+      "crypto/sha_vtr"
+    ],
+    "scene_id": "hash_datapath"
+  },
+  {
+    "family_ids": [
+      "dsp/blob_merge_vtr",
+      "dsp/stereovision0_vtr"
+    ],
+    "group_id": "image_stream_m2_6dbfa432e5c3e3df",
+    "members": [
+      "dsp/blob_merge_vtr",
+      "dsp/stereovision0_vtr"
+    ],
+    "scene_id": "image_stream"
+  },
+  {
+    "family_ids": [
+      "dsp/blob_merge_vtr",
+      "dsp/stereovision0_vtr"
+    ],
+    "group_id": "image_stream_m2_1e9a2250c4d580fb",
+    "members": [
+      "dsp/blob_merge_vtr",
+      "dsp/stereovision1_vtr"
+    ],
+    "scene_id": "image_stream"
+  },
+  {
+    "family_ids": [
+      "dsp/blob_merge_vtr",
+      "dsp/stereovision0_vtr"
+    ],
+    "group_id": "image_stream_m2_349dd6f38d026f6f",
+    "members": [
+      "dsp/blob_merge_vtr",
+      "dsp/stereovision2_vtr"
+    ],
+    "scene_id": "image_stream"
+  },
+  {
+    "family_ids": [
+      "dsp/blob_merge_vtr",
+      "dsp/stereovision0_vtr"
+    ],
+    "group_id": "image_stream_m2_2c39a53bd31f305f",
+    "members": [
+      "dsp/blob_merge_vtr",
+      "dsp/stereovision3_vtr"
+    ],
+    "scene_id": "image_stream"
+  },
+  {
+    "family_ids": [
+      "ctrl/8051_vtr",
+      "ctrl/VexRiscvSmallAndProductive_vtr"
+    ],
+    "group_id": "processor_m2_0848b5a20ebbb466",
+    "members": [
+      "ctrl/8051_vtr",
+      "ctrl/VexRiscvSmallAndProductive_vtr"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/8051_vtr",
+      "ctrl/VexRiscvSmallAndProductive_vtr"
+    ],
+    "group_id": "processor_m2_0ede3bffa5380df7",
+    "members": [
+      "ctrl/8051_vtr",
+      "ctrl/VexRiscvSmallest_vtr"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/8051_vtr",
+      "ctrl/or1200_vtr"
+    ],
+    "group_id": "processor_m2_d2808b6d90167d48",
+    "members": [
+      "ctrl/8051_vtr",
+      "ctrl/or1200_vtr"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/8051_vtr",
+      "ctrl/picorv32"
+    ],
+    "group_id": "processor_m2_3f888ee97ce6b2ca",
+    "members": [
+      "ctrl/8051_vtr",
+      "ctrl/picorv32"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/8051_vtr",
+      "ctrl/serv"
+    ],
+    "group_id": "processor_m2_8fb96d3967041e39",
+    "members": [
+      "ctrl/8051_vtr",
+      "ctrl/serv"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/8051_vtr",
+      "ctrl/spree_vtr"
+    ],
+    "group_id": "processor_m2_d6d622ad14e105c9",
+    "members": [
+      "ctrl/8051_vtr",
+      "ctrl/spree_vtr"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/or1200_vtr"
+    ],
+    "group_id": "processor_m2_3afa451aa602eb3e",
+    "members": [
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/or1200_vtr"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/picorv32"
+    ],
+    "group_id": "processor_m2_deb6bef7a05b28bd",
+    "members": [
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/picorv32"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/serv"
+    ],
+    "group_id": "processor_m2_3600ef301799e300",
+    "members": [
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/serv"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/spree_vtr"
+    ],
+    "group_id": "processor_m2_f7ca2e421f654a8f",
+    "members": [
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/spree_vtr"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/or1200_vtr"
+    ],
+    "group_id": "processor_m2_29bf07896e0057e9",
+    "members": [
+      "ctrl/VexRiscvSmallest_vtr",
+      "ctrl/or1200_vtr"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/picorv32"
+    ],
+    "group_id": "processor_m2_d61468d0da3a9e16",
+    "members": [
+      "ctrl/VexRiscvSmallest_vtr",
+      "ctrl/picorv32"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/serv"
+    ],
+    "group_id": "processor_m2_a82bcb2240a4bba7",
+    "members": [
+      "ctrl/VexRiscvSmallest_vtr",
+      "ctrl/serv"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/spree_vtr"
+    ],
+    "group_id": "processor_m2_8249974b7c56a639",
+    "members": [
+      "ctrl/VexRiscvSmallest_vtr",
+      "ctrl/spree_vtr"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/or1200_vtr",
+      "ctrl/picorv32"
+    ],
+    "group_id": "processor_m2_fa41ceb903d926ea",
+    "members": [
+      "ctrl/or1200_vtr",
+      "ctrl/picorv32"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/or1200_vtr",
+      "ctrl/serv"
+    ],
+    "group_id": "processor_m2_609368fe2dc454fb",
+    "members": [
+      "ctrl/or1200_vtr",
+      "ctrl/serv"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/or1200_vtr",
+      "ctrl/spree_vtr"
+    ],
+    "group_id": "processor_m2_748500b8bb2be3c7",
+    "members": [
+      "ctrl/or1200_vtr",
+      "ctrl/spree_vtr"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/picorv32",
+      "ctrl/serv"
+    ],
+    "group_id": "processor_m2_53c8158102af78cf",
+    "members": [
+      "ctrl/picorv32",
+      "ctrl/serv"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/picorv32",
+      "ctrl/spree_vtr"
+    ],
+    "group_id": "processor_m2_7c7a39be7a60339e",
+    "members": [
+      "ctrl/picorv32",
+      "ctrl/spree_vtr"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/serv",
+      "ctrl/spree_vtr"
+    ],
+    "group_id": "processor_m2_027f4609b42bdeed",
+    "members": [
+      "ctrl/serv",
+      "ctrl/spree_vtr"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/8051_vtr",
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/or1200_vtr"
+    ],
+    "group_id": "processor_m3_3a9838afae8a07fd",
+    "members": [
+      "ctrl/8051_vtr",
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/or1200_vtr"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/8051_vtr",
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/picorv32"
+    ],
+    "group_id": "processor_m3_cc2a68fcf93c0cbd",
+    "members": [
+      "ctrl/8051_vtr",
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/picorv32"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/8051_vtr",
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/serv"
+    ],
+    "group_id": "processor_m3_d8bfd029f655dbf3",
+    "members": [
+      "ctrl/8051_vtr",
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/serv"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/8051_vtr",
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/spree_vtr"
+    ],
+    "group_id": "processor_m3_126cb97d6b1c76cb",
+    "members": [
+      "ctrl/8051_vtr",
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/spree_vtr"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/8051_vtr",
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/or1200_vtr"
+    ],
+    "group_id": "processor_m3_bd27318cb70bc764",
+    "members": [
+      "ctrl/8051_vtr",
+      "ctrl/VexRiscvSmallest_vtr",
+      "ctrl/or1200_vtr"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/8051_vtr",
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/picorv32"
+    ],
+    "group_id": "processor_m3_c3f5c24087c95404",
+    "members": [
+      "ctrl/8051_vtr",
+      "ctrl/VexRiscvSmallest_vtr",
+      "ctrl/picorv32"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/8051_vtr",
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/serv"
+    ],
+    "group_id": "processor_m3_861f4dc21e81b976",
+    "members": [
+      "ctrl/8051_vtr",
+      "ctrl/VexRiscvSmallest_vtr",
+      "ctrl/serv"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/8051_vtr",
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/spree_vtr"
+    ],
+    "group_id": "processor_m3_b4197a53b206f4a0",
+    "members": [
+      "ctrl/8051_vtr",
+      "ctrl/VexRiscvSmallest_vtr",
+      "ctrl/spree_vtr"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/8051_vtr",
+      "ctrl/or1200_vtr",
+      "ctrl/picorv32"
+    ],
+    "group_id": "processor_m3_fd389e440406b5d4",
+    "members": [
+      "ctrl/8051_vtr",
+      "ctrl/or1200_vtr",
+      "ctrl/picorv32"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/8051_vtr",
+      "ctrl/or1200_vtr",
+      "ctrl/serv"
+    ],
+    "group_id": "processor_m3_d7365c98741a9162",
+    "members": [
+      "ctrl/8051_vtr",
+      "ctrl/or1200_vtr",
+      "ctrl/serv"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/8051_vtr",
+      "ctrl/or1200_vtr",
+      "ctrl/spree_vtr"
+    ],
+    "group_id": "processor_m3_24162d4bc5f8b64d",
+    "members": [
+      "ctrl/8051_vtr",
+      "ctrl/or1200_vtr",
+      "ctrl/spree_vtr"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/8051_vtr",
+      "ctrl/picorv32",
+      "ctrl/serv"
+    ],
+    "group_id": "processor_m3_bb6e9e95cd0b90ec",
+    "members": [
+      "ctrl/8051_vtr",
+      "ctrl/picorv32",
+      "ctrl/serv"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/8051_vtr",
+      "ctrl/picorv32",
+      "ctrl/spree_vtr"
+    ],
+    "group_id": "processor_m3_8e04ca8e9ce986cf",
+    "members": [
+      "ctrl/8051_vtr",
+      "ctrl/picorv32",
+      "ctrl/spree_vtr"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/8051_vtr",
+      "ctrl/serv",
+      "ctrl/spree_vtr"
+    ],
+    "group_id": "processor_m3_54366b99b0d1164c",
+    "members": [
+      "ctrl/8051_vtr",
+      "ctrl/serv",
+      "ctrl/spree_vtr"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/or1200_vtr",
+      "ctrl/picorv32"
+    ],
+    "group_id": "processor_m3_54242f5872e5863f",
+    "members": [
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/or1200_vtr",
+      "ctrl/picorv32"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/or1200_vtr",
+      "ctrl/serv"
+    ],
+    "group_id": "processor_m3_de0b802bf93c1451",
+    "members": [
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/or1200_vtr",
+      "ctrl/serv"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/or1200_vtr",
+      "ctrl/spree_vtr"
+    ],
+    "group_id": "processor_m3_3842b9366b0a85bb",
+    "members": [
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/or1200_vtr",
+      "ctrl/spree_vtr"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/picorv32",
+      "ctrl/serv"
+    ],
+    "group_id": "processor_m3_452cd908e73fe42b",
+    "members": [
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/picorv32",
+      "ctrl/serv"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/picorv32",
+      "ctrl/spree_vtr"
+    ],
+    "group_id": "processor_m3_5ce9e4b1e0417abb",
+    "members": [
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/picorv32",
+      "ctrl/spree_vtr"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/serv",
+      "ctrl/spree_vtr"
+    ],
+    "group_id": "processor_m3_fc93c175928e6689",
+    "members": [
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/serv",
+      "ctrl/spree_vtr"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/or1200_vtr",
+      "ctrl/picorv32"
+    ],
+    "group_id": "processor_m3_2ecba09ee8978555",
+    "members": [
+      "ctrl/VexRiscvSmallest_vtr",
+      "ctrl/or1200_vtr",
+      "ctrl/picorv32"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/or1200_vtr",
+      "ctrl/serv"
+    ],
+    "group_id": "processor_m3_05538459ce95959c",
+    "members": [
+      "ctrl/VexRiscvSmallest_vtr",
+      "ctrl/or1200_vtr",
+      "ctrl/serv"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/or1200_vtr",
+      "ctrl/spree_vtr"
+    ],
+    "group_id": "processor_m3_f1cd27a9a8605ff6",
+    "members": [
+      "ctrl/VexRiscvSmallest_vtr",
+      "ctrl/or1200_vtr",
+      "ctrl/spree_vtr"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/picorv32",
+      "ctrl/serv"
+    ],
+    "group_id": "processor_m3_f4cd2641a192cdce",
+    "members": [
+      "ctrl/VexRiscvSmallest_vtr",
+      "ctrl/picorv32",
+      "ctrl/serv"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/picorv32",
+      "ctrl/spree_vtr"
+    ],
+    "group_id": "processor_m3_7a5a61f12c4b80fb",
+    "members": [
+      "ctrl/VexRiscvSmallest_vtr",
+      "ctrl/picorv32",
+      "ctrl/spree_vtr"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/serv",
+      "ctrl/spree_vtr"
+    ],
+    "group_id": "processor_m3_9cacd563d25c9644",
+    "members": [
+      "ctrl/VexRiscvSmallest_vtr",
+      "ctrl/serv",
+      "ctrl/spree_vtr"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/or1200_vtr",
+      "ctrl/picorv32",
+      "ctrl/serv"
+    ],
+    "group_id": "processor_m3_a79f109e04077df2",
+    "members": [
+      "ctrl/or1200_vtr",
+      "ctrl/picorv32",
+      "ctrl/serv"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/or1200_vtr",
+      "ctrl/picorv32",
+      "ctrl/spree_vtr"
+    ],
+    "group_id": "processor_m3_97c0e72031627a20",
+    "members": [
+      "ctrl/or1200_vtr",
+      "ctrl/picorv32",
+      "ctrl/spree_vtr"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/or1200_vtr",
+      "ctrl/serv",
+      "ctrl/spree_vtr"
+    ],
+    "group_id": "processor_m3_c64d70cd16453b83",
+    "members": [
+      "ctrl/or1200_vtr",
+      "ctrl/serv",
+      "ctrl/spree_vtr"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/picorv32",
+      "ctrl/serv",
+      "ctrl/spree_vtr"
+    ],
+    "group_id": "processor_m3_02d1ed173f2569b4",
+    "members": [
+      "ctrl/picorv32",
+      "ctrl/serv",
+      "ctrl/spree_vtr"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/8051_vtr",
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/or1200_vtr",
+      "ctrl/picorv32"
+    ],
+    "group_id": "processor_m4_acac9c96f01730b1",
+    "members": [
+      "ctrl/8051_vtr",
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/or1200_vtr",
+      "ctrl/picorv32"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/8051_vtr",
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/or1200_vtr",
+      "ctrl/serv"
+    ],
+    "group_id": "processor_m4_3fd0ffd652a432f1",
+    "members": [
+      "ctrl/8051_vtr",
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/or1200_vtr",
+      "ctrl/serv"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/8051_vtr",
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/or1200_vtr",
+      "ctrl/spree_vtr"
+    ],
+    "group_id": "processor_m4_da5990a94b29cbf1",
+    "members": [
+      "ctrl/8051_vtr",
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/or1200_vtr",
+      "ctrl/spree_vtr"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/8051_vtr",
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/picorv32",
+      "ctrl/serv"
+    ],
+    "group_id": "processor_m4_0e4b85b499bb3874",
+    "members": [
+      "ctrl/8051_vtr",
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/picorv32",
+      "ctrl/serv"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/8051_vtr",
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/picorv32",
+      "ctrl/spree_vtr"
+    ],
+    "group_id": "processor_m4_d8e99a9e9a610b8c",
+    "members": [
+      "ctrl/8051_vtr",
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/picorv32",
+      "ctrl/spree_vtr"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/8051_vtr",
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/serv",
+      "ctrl/spree_vtr"
+    ],
+    "group_id": "processor_m4_8731444a10c8060a",
+    "members": [
+      "ctrl/8051_vtr",
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/serv",
+      "ctrl/spree_vtr"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/8051_vtr",
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/or1200_vtr",
+      "ctrl/picorv32"
+    ],
+    "group_id": "processor_m4_5434f0308976b69c",
+    "members": [
+      "ctrl/8051_vtr",
+      "ctrl/VexRiscvSmallest_vtr",
+      "ctrl/or1200_vtr",
+      "ctrl/picorv32"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/8051_vtr",
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/or1200_vtr",
+      "ctrl/serv"
+    ],
+    "group_id": "processor_m4_3be838c92e07926b",
+    "members": [
+      "ctrl/8051_vtr",
+      "ctrl/VexRiscvSmallest_vtr",
+      "ctrl/or1200_vtr",
+      "ctrl/serv"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/8051_vtr",
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/or1200_vtr",
+      "ctrl/spree_vtr"
+    ],
+    "group_id": "processor_m4_211b80d12d0367f2",
+    "members": [
+      "ctrl/8051_vtr",
+      "ctrl/VexRiscvSmallest_vtr",
+      "ctrl/or1200_vtr",
+      "ctrl/spree_vtr"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/8051_vtr",
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/picorv32",
+      "ctrl/serv"
+    ],
+    "group_id": "processor_m4_12241039c66b550a",
+    "members": [
+      "ctrl/8051_vtr",
+      "ctrl/VexRiscvSmallest_vtr",
+      "ctrl/picorv32",
+      "ctrl/serv"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/8051_vtr",
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/picorv32",
+      "ctrl/spree_vtr"
+    ],
+    "group_id": "processor_m4_38ee5980d05aa8d2",
+    "members": [
+      "ctrl/8051_vtr",
+      "ctrl/VexRiscvSmallest_vtr",
+      "ctrl/picorv32",
+      "ctrl/spree_vtr"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/8051_vtr",
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/serv",
+      "ctrl/spree_vtr"
+    ],
+    "group_id": "processor_m4_7ba9759e877888cf",
+    "members": [
+      "ctrl/8051_vtr",
+      "ctrl/VexRiscvSmallest_vtr",
+      "ctrl/serv",
+      "ctrl/spree_vtr"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/8051_vtr",
+      "ctrl/or1200_vtr",
+      "ctrl/picorv32",
+      "ctrl/serv"
+    ],
+    "group_id": "processor_m4_561ee2295d68951d",
+    "members": [
+      "ctrl/8051_vtr",
+      "ctrl/or1200_vtr",
+      "ctrl/picorv32",
+      "ctrl/serv"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/8051_vtr",
+      "ctrl/or1200_vtr",
+      "ctrl/picorv32",
+      "ctrl/spree_vtr"
+    ],
+    "group_id": "processor_m4_efd2b31bbcd62efd",
+    "members": [
+      "ctrl/8051_vtr",
+      "ctrl/or1200_vtr",
+      "ctrl/picorv32",
+      "ctrl/spree_vtr"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/8051_vtr",
+      "ctrl/or1200_vtr",
+      "ctrl/serv",
+      "ctrl/spree_vtr"
+    ],
+    "group_id": "processor_m4_4530fda5ba51a9e6",
+    "members": [
+      "ctrl/8051_vtr",
+      "ctrl/or1200_vtr",
+      "ctrl/serv",
+      "ctrl/spree_vtr"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/8051_vtr",
+      "ctrl/picorv32",
+      "ctrl/serv",
+      "ctrl/spree_vtr"
+    ],
+    "group_id": "processor_m4_400c8a4e2989dadd",
+    "members": [
+      "ctrl/8051_vtr",
+      "ctrl/picorv32",
+      "ctrl/serv",
+      "ctrl/spree_vtr"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/or1200_vtr",
+      "ctrl/picorv32",
+      "ctrl/serv"
+    ],
+    "group_id": "processor_m4_493a1d68b6c9a809",
+    "members": [
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/or1200_vtr",
+      "ctrl/picorv32",
+      "ctrl/serv"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/or1200_vtr",
+      "ctrl/picorv32",
+      "ctrl/spree_vtr"
+    ],
+    "group_id": "processor_m4_1ece76fce3fb0934",
+    "members": [
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/or1200_vtr",
+      "ctrl/picorv32",
+      "ctrl/spree_vtr"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/or1200_vtr",
+      "ctrl/serv",
+      "ctrl/spree_vtr"
+    ],
+    "group_id": "processor_m4_9d7ec9c4eb14272e",
+    "members": [
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/or1200_vtr",
+      "ctrl/serv",
+      "ctrl/spree_vtr"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/picorv32",
+      "ctrl/serv",
+      "ctrl/spree_vtr"
+    ],
+    "group_id": "processor_m4_de142ee55221112d",
+    "members": [
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/picorv32",
+      "ctrl/serv",
+      "ctrl/spree_vtr"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/or1200_vtr",
+      "ctrl/picorv32",
+      "ctrl/serv"
+    ],
+    "group_id": "processor_m4_8a6a2e4ff66c7961",
+    "members": [
+      "ctrl/VexRiscvSmallest_vtr",
+      "ctrl/or1200_vtr",
+      "ctrl/picorv32",
+      "ctrl/serv"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/or1200_vtr",
+      "ctrl/picorv32",
+      "ctrl/spree_vtr"
+    ],
+    "group_id": "processor_m4_9927c3d62927aae0",
+    "members": [
+      "ctrl/VexRiscvSmallest_vtr",
+      "ctrl/or1200_vtr",
+      "ctrl/picorv32",
+      "ctrl/spree_vtr"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/or1200_vtr",
+      "ctrl/serv",
+      "ctrl/spree_vtr"
+    ],
+    "group_id": "processor_m4_195dcf9b43be33f0",
+    "members": [
+      "ctrl/VexRiscvSmallest_vtr",
+      "ctrl/or1200_vtr",
+      "ctrl/serv",
+      "ctrl/spree_vtr"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/VexRiscvSmallAndProductive_vtr",
+      "ctrl/picorv32",
+      "ctrl/serv",
+      "ctrl/spree_vtr"
+    ],
+    "group_id": "processor_m4_c6536f9ab7ef4054",
+    "members": [
+      "ctrl/VexRiscvSmallest_vtr",
+      "ctrl/picorv32",
+      "ctrl/serv",
+      "ctrl/spree_vtr"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "ctrl/or1200_vtr",
+      "ctrl/picorv32",
+      "ctrl/serv",
+      "ctrl/spree_vtr"
+    ],
+    "group_id": "processor_m4_6eca25869ce79eb6",
+    "members": [
+      "ctrl/or1200_vtr",
+      "ctrl/picorv32",
+      "ctrl/serv",
+      "ctrl/spree_vtr"
+    ],
+    "scene_id": "processor"
+  },
+  {
+    "family_ids": [
+      "comm/alex_uart",
+      "comm/mmc_core_vtr"
+    ],
+    "group_id": "serial_peripheral_m2_1cb6a8e8aeb701ba",
+    "members": [
+      "comm/alex_uart",
+      "comm/mmc_core_vtr"
+    ],
+    "scene_id": "serial_peripheral"
+  },
+  {
+    "family_ids": [
+      "comm/alex_uart",
+      "comm/usb_uart_core_vtr"
+    ],
+    "group_id": "serial_peripheral_m2_04fcee049a4fc6b4",
+    "members": [
+      "comm/alex_uart",
+      "comm/usb_uart_core_vtr"
+    ],
+    "scene_id": "serial_peripheral"
+  },
+  {
+    "family_ids": [
+      "comm/mmc_core_vtr",
+      "comm/usb_uart_core_vtr"
+    ],
+    "group_id": "serial_peripheral_m2_be95bb08e235805e",
+    "members": [
+      "comm/mmc_core_vtr",
+      "comm/usb_uart_core_vtr"
+    ],
+    "scene_id": "serial_peripheral"
+  },
+  {
+    "family_ids": [
+      "comm/alex_uart",
+      "comm/mmc_core_vtr",
+      "comm/usb_uart_core_vtr"
+    ],
+    "group_id": "serial_peripheral_m3_ee1d375b1fdaef2a",
+    "members": [
+      "comm/alex_uart",
+      "comm/mmc_core_vtr",
+      "comm/usb_uart_core_vtr"
+    ],
+    "scene_id": "serial_peripheral"
+  },
+  {
+    "family_ids": [
+      "ml/eltwise_layer_koios",
+      "ml/reduction_layer_koios"
+    ],
+    "group_id": "tensor_auxiliary_m2_6c40532a9a669259",
+    "members": [
+      "ml/eltwise_layer_koios",
+      "ml/reduction_layer_koios"
+    ],
+    "scene_id": "tensor_auxiliary"
+  },
+  {
+    "family_ids": [
+      "ml/eltwise_layer_koios",
+      "ml/softmax_koios"
+    ],
+    "group_id": "tensor_auxiliary_m2_bf9b837bf8d2d70e",
+    "members": [
+      "ml/eltwise_layer_koios",
+      "ml/softmax_koios"
+    ],
+    "scene_id": "tensor_auxiliary"
+  },
+  {
+    "family_ids": [
+      "ml/reduction_layer_koios",
+      "ml/softmax_koios"
+    ],
+    "group_id": "tensor_auxiliary_m2_520625b3dbaeb60f",
+    "members": [
+      "ml/reduction_layer_koios",
+      "ml/softmax_koios"
+    ],
+    "scene_id": "tensor_auxiliary"
+  },
+  {
+    "family_ids": [
+      "ml/eltwise_layer_koios",
+      "ml/reduction_layer_koios",
+      "ml/softmax_koios"
+    ],
+    "group_id": "tensor_auxiliary_m3_74728a0a16e28bd4",
+    "members": [
+      "ml/eltwise_layer_koios",
+      "ml/reduction_layer_koios",
+      "ml/softmax_koios"
+    ],
+    "scene_id": "tensor_auxiliary"
+  },
+  {
+    "family_ids": [
+      "ml/attention_layer_koios",
+      "ml/conv_layer_hls_koios"
+    ],
+    "group_id": "weighted_compute_m2_c5bff1652e17d792",
+    "members": [
+      "ml/attention_layer_koios",
+      "ml/conv_layer_hls_koios"
+    ],
+    "scene_id": "weighted_compute"
+  },
+  {
+    "family_ids": [
+      "ml/attention_layer_koios",
+      "ml/conv_layer_koios"
+    ],
+    "group_id": "weighted_compute_m2_7dc618e528cad59a",
+    "members": [
+      "ml/attention_layer_koios",
+      "ml/conv_layer_koios"
+    ],
+    "scene_id": "weighted_compute"
+  },
+  {
+    "family_ids": [
+      "ml/attention_layer_koios",
+      "ml/spmv_koios"
+    ],
+    "group_id": "weighted_compute_m2_8d1d30ffd3a32181",
+    "members": [
+      "ml/attention_layer_koios",
+      "ml/spmv_koios"
+    ],
+    "scene_id": "weighted_compute"
+  },
+  {
+    "family_ids": [
+      "ml/attention_layer_koios",
+      "ml/tpu_like.small.os_koios"
+    ],
+    "group_id": "weighted_compute_m2_b74ca75dbc6fcae4",
+    "members": [
+      "ml/attention_layer_koios",
+      "ml/tpu_like.small.os_koios"
+    ],
+    "scene_id": "weighted_compute"
+  },
+  {
+    "family_ids": [
+      "ml/attention_layer_koios",
+      "ml/tpu_like.small.os_koios"
+    ],
+    "group_id": "weighted_compute_m2_7c4d1748ef5b4066",
+    "members": [
+      "ml/attention_layer_koios",
+      "ml/tpu_like.small.ws_koios"
+    ],
+    "scene_id": "weighted_compute"
+  },
+  {
+    "family_ids": [
+      "ml/conv_layer_hls_koios",
+      "ml/conv_layer_koios"
+    ],
+    "group_id": "weighted_compute_m2_44b242c9cc9c6f7e",
+    "members": [
+      "ml/conv_layer_hls_koios",
+      "ml/conv_layer_koios"
+    ],
+    "scene_id": "weighted_compute"
+  },
+  {
+    "family_ids": [
+      "ml/conv_layer_hls_koios",
+      "ml/spmv_koios"
+    ],
+    "group_id": "weighted_compute_m2_cc8ecde8065479fc",
+    "members": [
+      "ml/conv_layer_hls_koios",
+      "ml/spmv_koios"
+    ],
+    "scene_id": "weighted_compute"
+  },
+  {
+    "family_ids": [
+      "ml/conv_layer_hls_koios",
+      "ml/tpu_like.small.os_koios"
+    ],
+    "group_id": "weighted_compute_m2_d8ecefd56e170305",
+    "members": [
+      "ml/conv_layer_hls_koios",
+      "ml/tpu_like.small.os_koios"
+    ],
+    "scene_id": "weighted_compute"
+  },
+  {
+    "family_ids": [
+      "ml/conv_layer_hls_koios",
+      "ml/tpu_like.small.os_koios"
+    ],
+    "group_id": "weighted_compute_m2_e5fe5d2b36e0d4b2",
+    "members": [
+      "ml/conv_layer_hls_koios",
+      "ml/tpu_like.small.ws_koios"
+    ],
+    "scene_id": "weighted_compute"
+  },
+  {
+    "family_ids": [
+      "ml/conv_layer_koios",
+      "ml/spmv_koios"
+    ],
+    "group_id": "weighted_compute_m2_8d952dd41e468e5b",
+    "members": [
+      "ml/conv_layer_koios",
+      "ml/spmv_koios"
+    ],
+    "scene_id": "weighted_compute"
+  },
+  {
+    "family_ids": [
+      "ml/conv_layer_koios",
+      "ml/tpu_like.small.os_koios"
+    ],
+    "group_id": "weighted_compute_m2_62ae22d6323c5dff",
+    "members": [
+      "ml/conv_layer_koios",
+      "ml/tpu_like.small.os_koios"
+    ],
+    "scene_id": "weighted_compute"
+  },
+  {
+    "family_ids": [
+      "ml/conv_layer_koios",
+      "ml/tpu_like.small.os_koios"
+    ],
+    "group_id": "weighted_compute_m2_b2e44039aeb98cbd",
+    "members": [
+      "ml/conv_layer_koios",
+      "ml/tpu_like.small.ws_koios"
+    ],
+    "scene_id": "weighted_compute"
+  },
+  {
+    "family_ids": [
+      "ml/spmv_koios",
+      "ml/tpu_like.small.os_koios"
+    ],
+    "group_id": "weighted_compute_m2_2624cf2336e12df1",
+    "members": [
+      "ml/spmv_koios",
+      "ml/tpu_like.small.os_koios"
+    ],
+    "scene_id": "weighted_compute"
+  },
+  {
+    "family_ids": [
+      "ml/spmv_koios",
+      "ml/tpu_like.small.os_koios"
+    ],
+    "group_id": "weighted_compute_m2_e778de5993290624",
+    "members": [
+      "ml/spmv_koios",
+      "ml/tpu_like.small.ws_koios"
+    ],
+    "scene_id": "weighted_compute"
+  },
+  {
+    "family_ids": [
+      "ml/attention_layer_koios",
+      "ml/conv_layer_hls_koios",
+      "ml/conv_layer_koios"
+    ],
+    "group_id": "weighted_compute_m3_1346eb73c3c65e17",
+    "members": [
+      "ml/attention_layer_koios",
+      "ml/conv_layer_hls_koios",
+      "ml/conv_layer_koios"
+    ],
+    "scene_id": "weighted_compute"
+  },
+  {
+    "family_ids": [
+      "ml/attention_layer_koios",
+      "ml/conv_layer_hls_koios",
+      "ml/spmv_koios"
+    ],
+    "group_id": "weighted_compute_m3_709a8276a8412881",
+    "members": [
+      "ml/attention_layer_koios",
+      "ml/conv_layer_hls_koios",
+      "ml/spmv_koios"
+    ],
+    "scene_id": "weighted_compute"
+  },
+  {
+    "family_ids": [
+      "ml/attention_layer_koios",
+      "ml/conv_layer_hls_koios",
+      "ml/tpu_like.small.os_koios"
+    ],
+    "group_id": "weighted_compute_m3_4b08c4a724c21c2d",
+    "members": [
+      "ml/attention_layer_koios",
+      "ml/conv_layer_hls_koios",
+      "ml/tpu_like.small.os_koios"
+    ],
+    "scene_id": "weighted_compute"
+  },
+  {
+    "family_ids": [
+      "ml/attention_layer_koios",
+      "ml/conv_layer_hls_koios",
+      "ml/tpu_like.small.os_koios"
+    ],
+    "group_id": "weighted_compute_m3_65399aa5be505690",
+    "members": [
+      "ml/attention_layer_koios",
+      "ml/conv_layer_hls_koios",
+      "ml/tpu_like.small.ws_koios"
+    ],
+    "scene_id": "weighted_compute"
+  },
+  {
+    "family_ids": [
+      "ml/attention_layer_koios",
+      "ml/conv_layer_koios",
+      "ml/spmv_koios"
+    ],
+    "group_id": "weighted_compute_m3_28fecebff3ae7ed4",
+    "members": [
+      "ml/attention_layer_koios",
+      "ml/conv_layer_koios",
+      "ml/spmv_koios"
+    ],
+    "scene_id": "weighted_compute"
+  },
+  {
+    "family_ids": [
+      "ml/attention_layer_koios",
+      "ml/conv_layer_koios",
+      "ml/tpu_like.small.os_koios"
+    ],
+    "group_id": "weighted_compute_m3_95d81090cab0d125",
+    "members": [
+      "ml/attention_layer_koios",
+      "ml/conv_layer_koios",
+      "ml/tpu_like.small.os_koios"
+    ],
+    "scene_id": "weighted_compute"
+  },
+  {
+    "family_ids": [
+      "ml/attention_layer_koios",
+      "ml/conv_layer_koios",
+      "ml/tpu_like.small.os_koios"
+    ],
+    "group_id": "weighted_compute_m3_06b035d751ad6d46",
+    "members": [
+      "ml/attention_layer_koios",
+      "ml/conv_layer_koios",
+      "ml/tpu_like.small.ws_koios"
+    ],
+    "scene_id": "weighted_compute"
+  },
+  {
+    "family_ids": [
+      "ml/attention_layer_koios",
+      "ml/spmv_koios",
+      "ml/tpu_like.small.os_koios"
+    ],
+    "group_id": "weighted_compute_m3_389fb45c3773aa34",
+    "members": [
+      "ml/attention_layer_koios",
+      "ml/spmv_koios",
+      "ml/tpu_like.small.os_koios"
+    ],
+    "scene_id": "weighted_compute"
+  },
+  {
+    "family_ids": [
+      "ml/attention_layer_koios",
+      "ml/spmv_koios",
+      "ml/tpu_like.small.os_koios"
+    ],
+    "group_id": "weighted_compute_m3_6845c2a5958c8b17",
+    "members": [
+      "ml/attention_layer_koios",
+      "ml/spmv_koios",
+      "ml/tpu_like.small.ws_koios"
+    ],
+    "scene_id": "weighted_compute"
+  },
+  {
+    "family_ids": [
+      "ml/conv_layer_hls_koios",
+      "ml/conv_layer_koios",
+      "ml/spmv_koios"
+    ],
+    "group_id": "weighted_compute_m3_f8fd42cce6157355",
+    "members": [
+      "ml/conv_layer_hls_koios",
+      "ml/conv_layer_koios",
+      "ml/spmv_koios"
+    ],
+    "scene_id": "weighted_compute"
+  },
+  {
+    "family_ids": [
+      "ml/conv_layer_hls_koios",
+      "ml/conv_layer_koios",
+      "ml/tpu_like.small.os_koios"
+    ],
+    "group_id": "weighted_compute_m3_00098668da836ffb",
+    "members": [
+      "ml/conv_layer_hls_koios",
+      "ml/conv_layer_koios",
+      "ml/tpu_like.small.os_koios"
+    ],
+    "scene_id": "weighted_compute"
+  },
+  {
+    "family_ids": [
+      "ml/conv_layer_hls_koios",
+      "ml/conv_layer_koios",
+      "ml/tpu_like.small.os_koios"
+    ],
+    "group_id": "weighted_compute_m3_ae91ba6bb3c907fe",
+    "members": [
+      "ml/conv_layer_hls_koios",
+      "ml/conv_layer_koios",
+      "ml/tpu_like.small.ws_koios"
+    ],
+    "scene_id": "weighted_compute"
+  },
+  {
+    "family_ids": [
+      "ml/conv_layer_hls_koios",
+      "ml/spmv_koios",
+      "ml/tpu_like.small.os_koios"
+    ],
+    "group_id": "weighted_compute_m3_840f54ee8ae47066",
+    "members": [
+      "ml/conv_layer_hls_koios",
+      "ml/spmv_koios",
+      "ml/tpu_like.small.os_koios"
+    ],
+    "scene_id": "weighted_compute"
+  },
+  {
+    "family_ids": [
+      "ml/conv_layer_hls_koios",
+      "ml/spmv_koios",
+      "ml/tpu_like.small.os_koios"
+    ],
+    "group_id": "weighted_compute_m3_26912c0f02973807",
+    "members": [
+      "ml/conv_layer_hls_koios",
+      "ml/spmv_koios",
+      "ml/tpu_like.small.ws_koios"
+    ],
+    "scene_id": "weighted_compute"
+  },
+  {
+    "family_ids": [
+      "ml/conv_layer_koios",
+      "ml/spmv_koios",
+      "ml/tpu_like.small.os_koios"
+    ],
+    "group_id": "weighted_compute_m3_281a65a1c591892f",
+    "members": [
+      "ml/conv_layer_koios",
+      "ml/spmv_koios",
+      "ml/tpu_like.small.os_koios"
+    ],
+    "scene_id": "weighted_compute"
+  },
+  {
+    "family_ids": [
+      "ml/conv_layer_koios",
+      "ml/spmv_koios",
+      "ml/tpu_like.small.os_koios"
+    ],
+    "group_id": "weighted_compute_m3_991b41febcbc86fe",
+    "members": [
+      "ml/conv_layer_koios",
+      "ml/spmv_koios",
+      "ml/tpu_like.small.ws_koios"
+    ],
+    "scene_id": "weighted_compute"
+  },
+  {
+    "family_ids": [
+      "ml/attention_layer_koios",
+      "ml/conv_layer_hls_koios",
+      "ml/conv_layer_koios",
+      "ml/spmv_koios"
+    ],
+    "group_id": "weighted_compute_m4_cdb44133b8812ff9",
+    "members": [
+      "ml/attention_layer_koios",
+      "ml/conv_layer_hls_koios",
+      "ml/conv_layer_koios",
+      "ml/spmv_koios"
+    ],
+    "scene_id": "weighted_compute"
+  },
+  {
+    "family_ids": [
+      "ml/attention_layer_koios",
+      "ml/conv_layer_hls_koios",
+      "ml/conv_layer_koios",
+      "ml/tpu_like.small.os_koios"
+    ],
+    "group_id": "weighted_compute_m4_c270b4a4b4add22b",
+    "members": [
+      "ml/attention_layer_koios",
+      "ml/conv_layer_hls_koios",
+      "ml/conv_layer_koios",
+      "ml/tpu_like.small.os_koios"
+    ],
+    "scene_id": "weighted_compute"
+  },
+  {
+    "family_ids": [
+      "ml/attention_layer_koios",
+      "ml/conv_layer_hls_koios",
+      "ml/conv_layer_koios",
+      "ml/tpu_like.small.os_koios"
+    ],
+    "group_id": "weighted_compute_m4_f5ed86b234ac7260",
+    "members": [
+      "ml/attention_layer_koios",
+      "ml/conv_layer_hls_koios",
+      "ml/conv_layer_koios",
+      "ml/tpu_like.small.ws_koios"
+    ],
+    "scene_id": "weighted_compute"
+  },
+  {
+    "family_ids": [
+      "ml/attention_layer_koios",
+      "ml/conv_layer_hls_koios",
+      "ml/spmv_koios",
+      "ml/tpu_like.small.os_koios"
+    ],
+    "group_id": "weighted_compute_m4_98aa57414eb2b91f",
+    "members": [
+      "ml/attention_layer_koios",
+      "ml/conv_layer_hls_koios",
+      "ml/spmv_koios",
+      "ml/tpu_like.small.os_koios"
+    ],
+    "scene_id": "weighted_compute"
+  },
+  {
+    "family_ids": [
+      "ml/attention_layer_koios",
+      "ml/conv_layer_hls_koios",
+      "ml/spmv_koios",
+      "ml/tpu_like.small.os_koios"
+    ],
+    "group_id": "weighted_compute_m4_c72e6bbbd21e3629",
+    "members": [
+      "ml/attention_layer_koios",
+      "ml/conv_layer_hls_koios",
+      "ml/spmv_koios",
+      "ml/tpu_like.small.ws_koios"
+    ],
+    "scene_id": "weighted_compute"
+  },
+  {
+    "family_ids": [
+      "ml/attention_layer_koios",
+      "ml/conv_layer_koios",
+      "ml/spmv_koios",
+      "ml/tpu_like.small.os_koios"
+    ],
+    "group_id": "weighted_compute_m4_912236e99fea758d",
+    "members": [
+      "ml/attention_layer_koios",
+      "ml/conv_layer_koios",
+      "ml/spmv_koios",
+      "ml/tpu_like.small.os_koios"
+    ],
+    "scene_id": "weighted_compute"
+  },
+  {
+    "family_ids": [
+      "ml/attention_layer_koios",
+      "ml/conv_layer_koios",
+      "ml/spmv_koios",
+      "ml/tpu_like.small.os_koios"
+    ],
+    "group_id": "weighted_compute_m4_52273f5a96c8fd43",
+    "members": [
+      "ml/attention_layer_koios",
+      "ml/conv_layer_koios",
+      "ml/spmv_koios",
+      "ml/tpu_like.small.ws_koios"
+    ],
+    "scene_id": "weighted_compute"
+  },
+  {
+    "family_ids": [
+      "ml/conv_layer_hls_koios",
+      "ml/conv_layer_koios",
+      "ml/spmv_koios",
+      "ml/tpu_like.small.os_koios"
+    ],
+    "group_id": "weighted_compute_m4_d355c9407a2e4ca3",
+    "members": [
+      "ml/conv_layer_hls_koios",
+      "ml/conv_layer_koios",
+      "ml/spmv_koios",
+      "ml/tpu_like.small.os_koios"
+    ],
+    "scene_id": "weighted_compute"
+  },
+  {
+    "family_ids": [
+      "ml/conv_layer_hls_koios",
+      "ml/conv_layer_koios",
+      "ml/spmv_koios",
+      "ml/tpu_like.small.os_koios"
+    ],
+    "group_id": "weighted_compute_m4_3395867d35f32d87",
+    "members": [
+      "ml/conv_layer_hls_koios",
+      "ml/conv_layer_koios",
+      "ml/spmv_koios",
+      "ml/tpu_like.small.ws_koios"
+    ],
+    "scene_id": "weighted_compute"
+  }
+]

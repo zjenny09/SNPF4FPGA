@@ -1,0 +1,1802 @@
+[
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "59791ba14123eb0a313e2ad9bef21f6f32cf2e880e6d82629dbfc752ed8c2c51",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/comm/alex_i2c/k4/design.blif",
+        "sha256": "59791ba14123eb0a313e2ad9bef21f6f32cf2e880e6d82629dbfc752ed8c2c51"
+      },
+      "6": {
+        "file_sha256": "f593a55f2d4f924685102b4dcb971d7e10d46db6b68d3766a9653276362ae354",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/comm/alex_i2c/k6/design.blif",
+        "sha256": "f593a55f2d4f924685102b4dcb971d7e10d46db6b68d3766a9653276362ae354"
+      }
+    },
+    "circuit": "alex_i2c",
+    "cohort": "history",
+    "domain": "comm",
+    "feature_csv": "source_snapshot/fpga_domain_dse/results/canonical_v2_blif_b5/blif_features/canonical_v2_blif_static_features.csv",
+    "group_eligible": true,
+    "member_id": "comm/alex_i2c",
+    "scene_id": "serial_peripheral",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "55d68341b1564cfcf8ced1e52fd04bb9f1e4305e43b08595f8bbcb1fb6c63dd1",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/comm/alex_uart/k4/design.blif",
+        "sha256": "55d68341b1564cfcf8ced1e52fd04bb9f1e4305e43b08595f8bbcb1fb6c63dd1"
+      },
+      "6": {
+        "file_sha256": "636618221091fd8a669d7563683c16c91afac93dc36ee7909e2f82dc97319a14",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/comm/alex_uart/k6/design.blif",
+        "sha256": "636618221091fd8a669d7563683c16c91afac93dc36ee7909e2f82dc97319a14"
+      }
+    },
+    "circuit": "alex_uart",
+    "cohort": "history",
+    "domain": "comm",
+    "feature_csv": "source_snapshot/fpga_domain_dse/results/canonical_v2_blif_b5/blif_features/canonical_v2_blif_static_features.csv",
+    "group_eligible": true,
+    "member_id": "comm/alex_uart",
+    "scene_id": "serial_peripheral",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "5fc3aebab995749e274eadea3cb3de2bc9b9f7bee2c06dfee83eaed6091623be",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/comm/ethmac_vtr/k4/design.blif",
+        "sha256": "5fc3aebab995749e274eadea3cb3de2bc9b9f7bee2c06dfee83eaed6091623be"
+      },
+      "6": {
+        "file_sha256": "1cce344a0290c7f831e847f746c6a682088f43b33776c94e9e60856e8382f061",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/comm/ethmac_vtr/k6/design.blif",
+        "sha256": "1cce344a0290c7f831e847f746c6a682088f43b33776c94e9e60856e8382f061"
+      }
+    },
+    "circuit": "ethmac_vtr",
+    "cohort": "history",
+    "domain": "comm",
+    "feature_csv": "source_snapshot/fpga_domain_dse/results/canonical_v2_blif_b5/blif_features/canonical_v2_blif_static_features.csv",
+    "group_eligible": true,
+    "member_id": "comm/ethmac_vtr",
+    "scene_id": "packet_datapath",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "1f763dc2d121a7343367b8423a55912beb088fd0464eb500c6ef4c17507d0e4a",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/comm/mkDelayWorker32B_vtr/k4/design.blif",
+        "sha256": "1f763dc2d121a7343367b8423a55912beb088fd0464eb500c6ef4c17507d0e4a"
+      },
+      "6": {
+        "file_sha256": "9b7b5b117ec034295a2663e4576ffb3bfcabc23e26b1387a7e21d6cf024ad0d8",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/comm/mkDelayWorker32B_vtr/k6/design.blif",
+        "sha256": "9b7b5b117ec034295a2663e4576ffb3bfcabc23e26b1387a7e21d6cf024ad0d8"
+      }
+    },
+    "circuit": "mkDelayWorker32B_vtr",
+    "cohort": "history",
+    "domain": "comm",
+    "feature_csv": "source_snapshot/fpga_domain_dse/results/canonical_v2_blif_b5/blif_features/canonical_v2_blif_static_features.csv",
+    "group_eligible": false,
+    "member_id": "comm/mkDelayWorker32B_vtr",
+    "scene_id": "tentative_frame_adapter",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "0c03e9d1b3cf39e19ce746aba3540db31f4a02622d5be8b206cb2d88a0276728",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/comm/mkPktMerge_vtr/k4/design.blif",
+        "sha256": "0c03e9d1b3cf39e19ce746aba3540db31f4a02622d5be8b206cb2d88a0276728"
+      },
+      "6": {
+        "file_sha256": "b0ca49c2111188172e5585ecb800e0491528015493452ee617eb9d2c442ce431",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/comm/mkPktMerge_vtr/k6/design.blif",
+        "sha256": "b0ca49c2111188172e5585ecb800e0491528015493452ee617eb9d2c442ce431"
+      }
+    },
+    "circuit": "mkPktMerge_vtr",
+    "cohort": "history",
+    "domain": "comm",
+    "feature_csv": "source_snapshot/fpga_domain_dse/results/canonical_v2_blif_b5/blif_features/canonical_v2_blif_static_features.csv",
+    "group_eligible": false,
+    "member_id": "comm/mkPktMerge_vtr",
+    "scene_id": "tentative_frame_adapter",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "a7c9eeec103cfea382c1ba629667a2192f837bac0251a899cb29366e8fe60c89",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/comm/mkSMAdapter4B_vtr/k4/design.blif",
+        "sha256": "a7c9eeec103cfea382c1ba629667a2192f837bac0251a899cb29366e8fe60c89"
+      },
+      "6": {
+        "file_sha256": "b8b8098b71a3cbcedb7455bb53475406de679dc3fc2defd94cffaad8f7aa3a80",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/comm/mkSMAdapter4B_vtr/k6/design.blif",
+        "sha256": "b8b8098b71a3cbcedb7455bb53475406de679dc3fc2defd94cffaad8f7aa3a80"
+      }
+    },
+    "circuit": "mkSMAdapter4B_vtr",
+    "cohort": "history",
+    "domain": "comm",
+    "feature_csv": "source_snapshot/fpga_domain_dse/results/canonical_v2_blif_b5/blif_features/canonical_v2_blif_static_features.csv",
+    "group_eligible": false,
+    "member_id": "comm/mkSMAdapter4B_vtr",
+    "scene_id": "tentative_frame_adapter",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "38d327ce6f03871a409ec2327946ff75a7722d91aead14d2d55416262a4d57dc",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/comm/mmc_core_vtr/k4/design.blif",
+        "sha256": "38d327ce6f03871a409ec2327946ff75a7722d91aead14d2d55416262a4d57dc"
+      },
+      "6": {
+        "file_sha256": "6f832181a0b2d6033c7eacca077cdc42cd6bb1a7b784156d1676b213f47069f3",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/comm/mmc_core_vtr/k6/design.blif",
+        "sha256": "6f832181a0b2d6033c7eacca077cdc42cd6bb1a7b784156d1676b213f47069f3"
+      }
+    },
+    "circuit": "mmc_core_vtr",
+    "cohort": "history",
+    "domain": "comm",
+    "feature_csv": "source_snapshot/fpga_domain_dse/results/canonical_v2_blif_b5/blif_features/canonical_v2_blif_static_features.csv",
+    "group_eligible": true,
+    "member_id": "comm/mmc_core_vtr",
+    "scene_id": "serial_peripheral",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "40c6bb81f163c9e03ea521be6b13dd1b6ba38fc0a0378d6c8218f3f5d1b6b7b5",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/comm/opencores_simple_spi/k4/design.blif",
+        "sha256": "40c6bb81f163c9e03ea521be6b13dd1b6ba38fc0a0378d6c8218f3f5d1b6b7b5"
+      },
+      "6": {
+        "file_sha256": "2743237ac18994d5e66e62416fc6e80651fc600d7ffc8bddb4df30d6bd8c7f8a",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/comm/opencores_simple_spi/k6/design.blif",
+        "sha256": "2743237ac18994d5e66e62416fc6e80651fc600d7ffc8bddb4df30d6bd8c7f8a"
+      }
+    },
+    "circuit": "opencores_simple_spi",
+    "cohort": "history",
+    "domain": "comm",
+    "feature_csv": "source_snapshot/fpga_domain_dse/results/canonical_v2_blif_b5/blif_features/canonical_v2_blif_static_features.csv",
+    "group_eligible": true,
+    "member_id": "comm/opencores_simple_spi",
+    "scene_id": "serial_peripheral",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "b3f6b1382b731f3dfeae8c16eb62400ef103ed6e5825ff6d3dc8f7c3261e430f",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/comm/uart16550/k4/design.blif",
+        "sha256": "b3f6b1382b731f3dfeae8c16eb62400ef103ed6e5825ff6d3dc8f7c3261e430f"
+      },
+      "6": {
+        "file_sha256": "dee89f4848e052fc1beb55bdf34a3e3e71ee5c9a64c3df485439d695fab824a5",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/comm/uart16550/k6/design.blif",
+        "sha256": "dee89f4848e052fc1beb55bdf34a3e3e71ee5c9a64c3df485439d695fab824a5"
+      }
+    },
+    "circuit": "uart16550",
+    "cohort": "history",
+    "domain": "comm",
+    "feature_csv": "source_snapshot/fpga_domain_dse/results/canonical_v2_blif_b5/blif_features/canonical_v2_blif_static_features.csv",
+    "group_eligible": true,
+    "member_id": "comm/uart16550",
+    "scene_id": "serial_peripheral",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "157041bcc76b1875b61ff9f86f5e480a9ce198f83e4152ea4e9ba774c9e50484",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/comm/usb_uart_core_vtr/k4/design.blif",
+        "sha256": "157041bcc76b1875b61ff9f86f5e480a9ce198f83e4152ea4e9ba774c9e50484"
+      },
+      "6": {
+        "file_sha256": "0572b345e0128455f6efb1aae1535c5a6b66b0132f030c6090b6243e7197a5e8",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/comm/usb_uart_core_vtr/k6/design.blif",
+        "sha256": "0572b345e0128455f6efb1aae1535c5a6b66b0132f030c6090b6243e7197a5e8"
+      }
+    },
+    "circuit": "usb_uart_core_vtr",
+    "cohort": "history",
+    "domain": "comm",
+    "feature_csv": "source_snapshot/fpga_domain_dse/results/canonical_v2_blif_b5/blif_features/canonical_v2_blif_static_features.csv",
+    "group_eligible": true,
+    "member_id": "comm/usb_uart_core_vtr",
+    "scene_id": "serial_peripheral",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "d16c02e552f4f0a27a0d7f1594e400457a77470ff111fb492f5581f52bda2969",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/crypto/aes_cipher_vtr/k4/design.blif",
+        "sha256": "d16c02e552f4f0a27a0d7f1594e400457a77470ff111fb492f5581f52bda2969"
+      },
+      "6": {
+        "file_sha256": "f7dd46c3d00bb5f25593de71365ffdc9f90dc6d6bd058c33df88b5dab797f8c6",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/crypto/aes_cipher_vtr/k6/design.blif",
+        "sha256": "f7dd46c3d00bb5f25593de71365ffdc9f90dc6d6bd058c33df88b5dab797f8c6"
+      }
+    },
+    "circuit": "aes_cipher_vtr",
+    "cohort": "history",
+    "domain": "crypto",
+    "feature_csv": "source_snapshot/fpga_domain_dse/results/canonical_v2_blif_b5/blif_features/canonical_v2_blif_static_features.csv",
+    "group_eligible": true,
+    "member_id": "crypto/aes_cipher_vtr",
+    "scene_id": "cipher_datapath",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "6c5b097fc7eb6bb9e62f5e50d7c17870665c07fb6a4871413e885ca076f27fa8",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/crypto/aes_inv_cipher_vtr/k4/design.blif",
+        "sha256": "6c5b097fc7eb6bb9e62f5e50d7c17870665c07fb6a4871413e885ca076f27fa8"
+      },
+      "6": {
+        "file_sha256": "25cc866edc53c96172168738a839d4cddc5f568eec6e53cfdc035aa9832ef53f",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/crypto/aes_inv_cipher_vtr/k6/design.blif",
+        "sha256": "25cc866edc53c96172168738a839d4cddc5f568eec6e53cfdc035aa9832ef53f"
+      }
+    },
+    "circuit": "aes_inv_cipher_vtr",
+    "cohort": "history",
+    "domain": "crypto",
+    "feature_csv": "source_snapshot/fpga_domain_dse/results/canonical_v2_blif_b5/blif_features/canonical_v2_blif_static_features.csv",
+    "group_eligible": true,
+    "member_id": "crypto/aes_inv_cipher_vtr",
+    "scene_id": "cipher_datapath",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "74043286a3f7fea987f763800ef7351edecefe9c5ae6bc73b792bd3e168bfae4",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/crypto/opencores_des3/k4/design.blif",
+        "sha256": "74043286a3f7fea987f763800ef7351edecefe9c5ae6bc73b792bd3e168bfae4"
+      },
+      "6": {
+        "file_sha256": "eb07dc99c95ca6f499f9b187eb74f96e5e51eeebe467314fa347497ac91a709c",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/crypto/opencores_des3/k6/design.blif",
+        "sha256": "eb07dc99c95ca6f499f9b187eb74f96e5e51eeebe467314fa347497ac91a709c"
+      }
+    },
+    "circuit": "opencores_des3",
+    "cohort": "history",
+    "domain": "crypto",
+    "feature_csv": "source_snapshot/fpga_domain_dse/results/canonical_v2_blif_b5/blif_features/canonical_v2_blif_static_features.csv",
+    "group_eligible": true,
+    "member_id": "crypto/opencores_des3",
+    "scene_id": "cipher_datapath",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "18449db75624443d4083fc1c92fa705973d91fadea3af38b65da04eb07e758ff",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/crypto/secworks_aes/k4/design.blif",
+        "sha256": "18449db75624443d4083fc1c92fa705973d91fadea3af38b65da04eb07e758ff"
+      },
+      "6": {
+        "file_sha256": "099ce1c8144d03c21ea442409777e8daa67b87ec4aacc535fe0ae42faa6485f1",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/crypto/secworks_aes/k6/design.blif",
+        "sha256": "099ce1c8144d03c21ea442409777e8daa67b87ec4aacc535fe0ae42faa6485f1"
+      }
+    },
+    "circuit": "secworks_aes",
+    "cohort": "history",
+    "domain": "crypto",
+    "feature_csv": "source_snapshot/fpga_domain_dse/results/canonical_v2_blif_b5/blif_features/canonical_v2_blif_static_features.csv",
+    "group_eligible": true,
+    "member_id": "crypto/secworks_aes",
+    "scene_id": "cipher_datapath",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "a9f8f63666153088e5bcd49ebdf01dc8a2c7739e170f94c9fbc26c12cf1569d8",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/crypto/secworks_blake2s/k4/design.blif",
+        "sha256": "a9f8f63666153088e5bcd49ebdf01dc8a2c7739e170f94c9fbc26c12cf1569d8"
+      },
+      "6": {
+        "file_sha256": "8f60a920961c747373252ab4914b22d3f8b956f2b2437d2d9023b8e465e7cf85",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/crypto/secworks_blake2s/k6/design.blif",
+        "sha256": "8f60a920961c747373252ab4914b22d3f8b956f2b2437d2d9023b8e465e7cf85"
+      }
+    },
+    "circuit": "secworks_blake2s",
+    "cohort": "history",
+    "domain": "crypto",
+    "feature_csv": "source_snapshot/fpga_domain_dse/results/canonical_v2_blif_b5/blif_features/canonical_v2_blif_static_features.csv",
+    "group_eligible": true,
+    "member_id": "crypto/secworks_blake2s",
+    "scene_id": "hash_datapath",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "481683fd6726ab9f21e43be9b421bc95a3828eed1aed823f27710a985fe67f7b",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/crypto/secworks_chacha/k4/design.blif",
+        "sha256": "481683fd6726ab9f21e43be9b421bc95a3828eed1aed823f27710a985fe67f7b"
+      },
+      "6": {
+        "file_sha256": "27bc21dcae60f932ba9b4ff7bda04f3021d32f775d3cfe8f9672dc997bc331a9",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/crypto/secworks_chacha/k6/design.blif",
+        "sha256": "27bc21dcae60f932ba9b4ff7bda04f3021d32f775d3cfe8f9672dc997bc331a9"
+      }
+    },
+    "circuit": "secworks_chacha",
+    "cohort": "history",
+    "domain": "crypto",
+    "feature_csv": "source_snapshot/fpga_domain_dse/results/canonical_v2_blif_b5/blif_features/canonical_v2_blif_static_features.csv",
+    "group_eligible": true,
+    "member_id": "crypto/secworks_chacha",
+    "scene_id": "cipher_datapath",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "00ab208cf6855f010f7d9ab3c9d5dc57e6286fa10e7d53ef1427bd84c45bdaef",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/crypto/secworks_md5/k4/design.blif",
+        "sha256": "00ab208cf6855f010f7d9ab3c9d5dc57e6286fa10e7d53ef1427bd84c45bdaef"
+      },
+      "6": {
+        "file_sha256": "9e2781575b7c61552af410f30b0797bf4cb97708c090213d4a10bf421a0fb045",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/crypto/secworks_md5/k6/design.blif",
+        "sha256": "9e2781575b7c61552af410f30b0797bf4cb97708c090213d4a10bf421a0fb045"
+      }
+    },
+    "circuit": "secworks_md5",
+    "cohort": "history",
+    "domain": "crypto",
+    "feature_csv": "source_snapshot/fpga_domain_dse/results/canonical_v2_blif_b5/blif_features/canonical_v2_blif_static_features.csv",
+    "group_eligible": true,
+    "member_id": "crypto/secworks_md5",
+    "scene_id": "hash_datapath",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "5e27e2e03e4e68d50a5d099fc6d69a066a6eec595116b315a677116375176692",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/crypto/secworks_prince/k4/design.blif",
+        "sha256": "5e27e2e03e4e68d50a5d099fc6d69a066a6eec595116b315a677116375176692"
+      },
+      "6": {
+        "file_sha256": "0f942b2e01e9d612b0aa500b588c8b06bc8ad6d680efdb04610dcc1bfa3ecce4",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/crypto/secworks_prince/k6/design.blif",
+        "sha256": "0f942b2e01e9d612b0aa500b588c8b06bc8ad6d680efdb04610dcc1bfa3ecce4"
+      }
+    },
+    "circuit": "secworks_prince",
+    "cohort": "history",
+    "domain": "crypto",
+    "feature_csv": "source_snapshot/fpga_domain_dse/results/canonical_v2_blif_b5/blif_features/canonical_v2_blif_static_features.csv",
+    "group_eligible": true,
+    "member_id": "crypto/secworks_prince",
+    "scene_id": "cipher_datapath",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "b6e1167c7ed0ed714b00c9d322f8f5fb63738058400e0006a10f730480eb73f6",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/crypto/secworks_sha256/k4/design.blif",
+        "sha256": "b6e1167c7ed0ed714b00c9d322f8f5fb63738058400e0006a10f730480eb73f6"
+      },
+      "6": {
+        "file_sha256": "fea1fb49a7878e089a808dc20375bae3720566feb50ab735bbb7ddefc2fa0f00",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/crypto/secworks_sha256/k6/design.blif",
+        "sha256": "fea1fb49a7878e089a808dc20375bae3720566feb50ab735bbb7ddefc2fa0f00"
+      }
+    },
+    "circuit": "secworks_sha256",
+    "cohort": "history",
+    "domain": "crypto",
+    "feature_csv": "source_snapshot/fpga_domain_dse/results/canonical_v2_blif_b5/blif_features/canonical_v2_blif_static_features.csv",
+    "group_eligible": true,
+    "member_id": "crypto/secworks_sha256",
+    "scene_id": "hash_datapath",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "c916254bcf8b3218841efcfd3b2eadb30da75991d75ed062dbd51b4b20d96a1f",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/crypto/secworks_sha3/k4/design.blif",
+        "sha256": "c916254bcf8b3218841efcfd3b2eadb30da75991d75ed062dbd51b4b20d96a1f"
+      },
+      "6": {
+        "file_sha256": "282f2a5b5138de7dd6f295c14d07955bc38705773ad05a7663703641aa7c12c9",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/crypto/secworks_sha3/k6/design.blif",
+        "sha256": "282f2a5b5138de7dd6f295c14d07955bc38705773ad05a7663703641aa7c12c9"
+      }
+    },
+    "circuit": "secworks_sha3",
+    "cohort": "history",
+    "domain": "crypto",
+    "feature_csv": "source_snapshot/fpga_domain_dse/results/canonical_v2_blif_b5/blif_features/canonical_v2_blif_static_features.csv",
+    "group_eligible": true,
+    "member_id": "crypto/secworks_sha3",
+    "scene_id": "hash_datapath",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "39db36701630c4bcd1c066086b8b1a41d137f1b29309884d054090ba2fb33dd7",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/crypto/sha_vtr/k4/design.blif",
+        "sha256": "39db36701630c4bcd1c066086b8b1a41d137f1b29309884d054090ba2fb33dd7"
+      },
+      "6": {
+        "file_sha256": "3d3cdd81d6529044a697de892624ec3f37e55e39acc88e8d4a60c64b37483602",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/crypto/sha_vtr/k6/design.blif",
+        "sha256": "3d3cdd81d6529044a697de892624ec3f37e55e39acc88e8d4a60c64b37483602"
+      }
+    },
+    "circuit": "sha_vtr",
+    "cohort": "history",
+    "domain": "crypto",
+    "feature_csv": "source_snapshot/fpga_domain_dse/results/canonical_v2_blif_b5/blif_features/canonical_v2_blif_static_features.csv",
+    "group_eligible": true,
+    "member_id": "crypto/sha_vtr",
+    "scene_id": "hash_datapath",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "be12a0d824b836751d5599d4718a280aa4f465cd9c3673ee8ebefbb3dbdd2584",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/crypto/xtea_vtr/k4/design.blif",
+        "sha256": "be12a0d824b836751d5599d4718a280aa4f465cd9c3673ee8ebefbb3dbdd2584"
+      },
+      "6": {
+        "file_sha256": "a9a96ed015f2872b51a0167433b072504ffeec7b788fea3647a43396beaa30cb",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/crypto/xtea_vtr/k6/design.blif",
+        "sha256": "a9a96ed015f2872b51a0167433b072504ffeec7b788fea3647a43396beaa30cb"
+      }
+    },
+    "circuit": "xtea_vtr",
+    "cohort": "history",
+    "domain": "crypto",
+    "feature_csv": "source_snapshot/fpga_domain_dse/results/canonical_v2_blif_b5/blif_features/canonical_v2_blif_static_features.csv",
+    "group_eligible": true,
+    "member_id": "crypto/xtea_vtr",
+    "scene_id": "cipher_datapath",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "1737ae67ff95d8c1a8df1a3497f3ac08c12d742de9b4c72e083859af21cac2d2",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/ctrl/8051_vtr/k4/design.blif",
+        "sha256": "1737ae67ff95d8c1a8df1a3497f3ac08c12d742de9b4c72e083859af21cac2d2"
+      },
+      "6": {
+        "file_sha256": "1009a565833c025a7fb90995c1d0a08f3431113ad52d819604014861305340d0",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/ctrl/8051_vtr/k6/design.blif",
+        "sha256": "1009a565833c025a7fb90995c1d0a08f3431113ad52d819604014861305340d0"
+      }
+    },
+    "circuit": "8051_vtr",
+    "cohort": "history",
+    "domain": "ctrl",
+    "feature_csv": "source_snapshot/fpga_domain_dse/results/canonical_v2_blif_b5/blif_features/canonical_v2_blif_static_features.csv",
+    "group_eligible": true,
+    "member_id": "ctrl/8051_vtr",
+    "scene_id": "processor",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "a996d6f8060e80b19ad807805b4542afc0f892bc9d470ed04b4c44fddb35de66",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/ctrl/VexRiscvSmallAndProductive_vtr/k4/design.blif",
+        "sha256": "a996d6f8060e80b19ad807805b4542afc0f892bc9d470ed04b4c44fddb35de66"
+      },
+      "6": {
+        "file_sha256": "83dceca6a0a92bba267080d28618b348fd8ee25c32cd643ba742222b20171654",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/ctrl/VexRiscvSmallAndProductive_vtr/k6/design.blif",
+        "sha256": "83dceca6a0a92bba267080d28618b348fd8ee25c32cd643ba742222b20171654"
+      }
+    },
+    "circuit": "VexRiscvSmallAndProductive_vtr",
+    "cohort": "history",
+    "domain": "ctrl",
+    "feature_csv": "source_snapshot/fpga_domain_dse/results/canonical_v2_blif_b5/blif_features/canonical_v2_blif_static_features.csv",
+    "group_eligible": true,
+    "member_id": "ctrl/VexRiscvSmallAndProductive_vtr",
+    "scene_id": "processor",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "b8f247a8d1fe8bd530f9dd18b2c78a4ad6864c8da750bc2c2c649211c734eb51",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/ctrl/VexRiscvSmallest_vtr/k4/design.blif",
+        "sha256": "b8f247a8d1fe8bd530f9dd18b2c78a4ad6864c8da750bc2c2c649211c734eb51"
+      },
+      "6": {
+        "file_sha256": "fcab466bf6272c218b7b9e83d18be4bf3064fbc83e1935f4182e7df7e1c96784",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/ctrl/VexRiscvSmallest_vtr/k6/design.blif",
+        "sha256": "fcab466bf6272c218b7b9e83d18be4bf3064fbc83e1935f4182e7df7e1c96784"
+      }
+    },
+    "circuit": "VexRiscvSmallest_vtr",
+    "cohort": "history",
+    "domain": "ctrl",
+    "feature_csv": "source_snapshot/fpga_domain_dse/results/canonical_v2_blif_b5/blif_features/canonical_v2_blif_static_features.csv",
+    "group_eligible": true,
+    "member_id": "ctrl/VexRiscvSmallest_vtr",
+    "scene_id": "processor",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "85a6066944b51d2cb85000e689d03e54877b169e746850c6b42f30f9d54f1bfd",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/ctrl/mips_16_vtr/k4/design.blif",
+        "sha256": "85a6066944b51d2cb85000e689d03e54877b169e746850c6b42f30f9d54f1bfd"
+      },
+      "6": {
+        "file_sha256": "85a6066944b51d2cb85000e689d03e54877b169e746850c6b42f30f9d54f1bfd",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/ctrl/mips_16_vtr/k6/design.blif",
+        "sha256": "85a6066944b51d2cb85000e689d03e54877b169e746850c6b42f30f9d54f1bfd"
+      }
+    },
+    "circuit": "mips_16_vtr",
+    "cohort": "history",
+    "domain": "ctrl",
+    "feature_csv": "source_snapshot/fpga_domain_dse/results/canonical_v2_blif_b5/blif_features/canonical_v2_blif_static_features.csv",
+    "group_eligible": false,
+    "member_id": "ctrl/mips_16_vtr",
+    "scene_id": "processor",
+    "scope_status": "mips_synth_scope_pending",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "25a88dd28d4dd670ef4124ce043ad31b195af0231a546d12790f24a56093a47a",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/ctrl/or1200_vtr/k4/design.blif",
+        "sha256": "25a88dd28d4dd670ef4124ce043ad31b195af0231a546d12790f24a56093a47a"
+      },
+      "6": {
+        "file_sha256": "8a6829ad1ec5c92eb44360d01638ba2e7af5757344de6cc6b1dfebc26a3602ab",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/ctrl/or1200_vtr/k6/design.blif",
+        "sha256": "8a6829ad1ec5c92eb44360d01638ba2e7af5757344de6cc6b1dfebc26a3602ab"
+      }
+    },
+    "circuit": "or1200_vtr",
+    "cohort": "history",
+    "domain": "ctrl",
+    "feature_csv": "source_snapshot/fpga_domain_dse/results/canonical_v2_blif_b5/blif_features/canonical_v2_blif_static_features.csv",
+    "group_eligible": true,
+    "member_id": "ctrl/or1200_vtr",
+    "scene_id": "processor",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "9c2c54dfedc8e6bbb9a42740dec672c7ec4278e06c7cac5d4bfa7dae5806059d",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/ctrl/picorv32/k4/design.blif",
+        "sha256": "9c2c54dfedc8e6bbb9a42740dec672c7ec4278e06c7cac5d4bfa7dae5806059d"
+      },
+      "6": {
+        "file_sha256": "9a3008f94175c373059a2a3df815477fcad64f0237fb199d1b532df8800d1016",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/ctrl/picorv32/k6/design.blif",
+        "sha256": "9a3008f94175c373059a2a3df815477fcad64f0237fb199d1b532df8800d1016"
+      }
+    },
+    "circuit": "picorv32",
+    "cohort": "history",
+    "domain": "ctrl",
+    "feature_csv": "source_snapshot/fpga_domain_dse/results/canonical_v2_blif_b5/blif_features/canonical_v2_blif_static_features.csv",
+    "group_eligible": true,
+    "member_id": "ctrl/picorv32",
+    "scene_id": "processor",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "0de192aa7f68c07cb9282e8231e1aaa46739553aeebb5a448e5cd386cdf5728e",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/ctrl/serv/k4/design.blif",
+        "sha256": "0de192aa7f68c07cb9282e8231e1aaa46739553aeebb5a448e5cd386cdf5728e"
+      },
+      "6": {
+        "file_sha256": "2199384cff503744c6e1ed7a3644252527b9601c4a0eebd8fcbc361e6db5caf7",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/ctrl/serv/k6/design.blif",
+        "sha256": "2199384cff503744c6e1ed7a3644252527b9601c4a0eebd8fcbc361e6db5caf7"
+      }
+    },
+    "circuit": "serv",
+    "cohort": "history",
+    "domain": "ctrl",
+    "feature_csv": "source_snapshot/fpga_domain_dse/results/canonical_v2_blif_b5/blif_features/canonical_v2_blif_static_features.csv",
+    "group_eligible": true,
+    "member_id": "ctrl/serv",
+    "scene_id": "processor",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "bbf52f9b227ac14fbaeaec14e18cfead2679928d8f127948d5554dbdeb7e47e2",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/ctrl/soc_core_vtr/k4/design.blif",
+        "sha256": "bbf52f9b227ac14fbaeaec14e18cfead2679928d8f127948d5554dbdeb7e47e2"
+      },
+      "6": {
+        "file_sha256": "564dea3767a8c1396dc3e6146a4443541fa6cf1e223072c057959a301fc1c76c",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/ctrl/soc_core_vtr/k6/design.blif",
+        "sha256": "564dea3767a8c1396dc3e6146a4443541fa6cf1e223072c057959a301fc1c76c"
+      }
+    },
+    "circuit": "soc_core_vtr",
+    "cohort": "history",
+    "domain": "ctrl",
+    "feature_csv": "source_snapshot/fpga_domain_dse/results/canonical_v2_blif_b5/blif_features/canonical_v2_blif_static_features.csv",
+    "group_eligible": true,
+    "member_id": "ctrl/soc_core_vtr",
+    "scene_id": "soc_peripheral",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "6d77cf139c0ea772da160589801ea9390d5d4764357aaf58dd6db6bb5b0d450d",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/ctrl/spree_vtr/k4/design.blif",
+        "sha256": "6d77cf139c0ea772da160589801ea9390d5d4764357aaf58dd6db6bb5b0d450d"
+      },
+      "6": {
+        "file_sha256": "f32fd5c0e7bf24fac31fa74050874fa668f027667f58bc52f229f0b2d90f8fa1",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/ctrl/spree_vtr/k6/design.blif",
+        "sha256": "f32fd5c0e7bf24fac31fa74050874fa668f027667f58bc52f229f0b2d90f8fa1"
+      }
+    },
+    "circuit": "spree_vtr",
+    "cohort": "history",
+    "domain": "ctrl",
+    "feature_csv": "source_snapshot/fpga_domain_dse/results/canonical_v2_blif_b5/blif_features/canonical_v2_blif_static_features.csv",
+    "group_eligible": true,
+    "member_id": "ctrl/spree_vtr",
+    "scene_id": "processor",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "9d01fd43ea3c55f91932acbfdb6c684206bebe809d246d5bd7e3a003d5b48cec",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/ctrl/uriscv_core_vtr/k4/design.blif",
+        "sha256": "9d01fd43ea3c55f91932acbfdb6c684206bebe809d246d5bd7e3a003d5b48cec"
+      },
+      "6": {
+        "file_sha256": "336ba7a6cc966551cded0275e362394bcba20dca389648865a85507109bc8ac8",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/ctrl/uriscv_core_vtr/k6/design.blif",
+        "sha256": "336ba7a6cc966551cded0275e362394bcba20dca389648865a85507109bc8ac8"
+      }
+    },
+    "circuit": "uriscv_core_vtr",
+    "cohort": "history",
+    "domain": "ctrl",
+    "feature_csv": "source_snapshot/fpga_domain_dse/results/canonical_v2_blif_b5/blif_features/canonical_v2_blif_static_features.csv",
+    "group_eligible": false,
+    "member_id": "ctrl/uriscv_core_vtr",
+    "scene_id": "processor",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "e6d9f152743a0b73c000c2584f5d6bb97f184d5562ed928cfc6e0211736e3029",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/dsp/LU8PEEng_vtr/k4/design.blif",
+        "sha256": "e6d9f152743a0b73c000c2584f5d6bb97f184d5562ed928cfc6e0211736e3029"
+      },
+      "6": {
+        "file_sha256": "dd8c8e39b7c87d51a26495506069f2ce11673865f7eada8bc4cb3ce5a702a44c",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/dsp/LU8PEEng_vtr/k6/design.blif",
+        "sha256": "dd8c8e39b7c87d51a26495506069f2ce11673865f7eada8bc4cb3ce5a702a44c"
+      }
+    },
+    "circuit": "LU8PEEng_vtr",
+    "cohort": "history",
+    "domain": "dsp",
+    "feature_csv": "source_snapshot/fpga_domain_dse/results/canonical_v2_blif_b5/blif_features/canonical_v2_blif_static_features.csv",
+    "group_eligible": false,
+    "member_id": "dsp/LU8PEEng_vtr",
+    "scene_id": "unresolved_function",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "1354984286a96996157a177955119d203b94be66bf40a434ea0889d2c997a7cb",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/dsp/bgm_vtr/k4/design.blif",
+        "sha256": "1354984286a96996157a177955119d203b94be66bf40a434ea0889d2c997a7cb"
+      },
+      "6": {
+        "file_sha256": "0c57b8bf773308dc6130ac4ef7882a6454b41c4b865165a1238d9f398ae9aa53",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/dsp/bgm_vtr/k6/design.blif",
+        "sha256": "0c57b8bf773308dc6130ac4ef7882a6454b41c4b865165a1238d9f398ae9aa53"
+      }
+    },
+    "circuit": "bgm_vtr",
+    "cohort": "history",
+    "domain": "dsp",
+    "feature_csv": "source_snapshot/fpga_domain_dse/results/canonical_v2_blif_b5/blif_features/canonical_v2_blif_static_features.csv",
+    "group_eligible": false,
+    "member_id": "dsp/bgm_vtr",
+    "scene_id": "unresolved_function",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "27e2702024a1e8e7a0ff815e22b2131a32d555477ab4f4be83a9d5110d201a72",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/dsp/blob_merge_vtr/k4/design.blif",
+        "sha256": "27e2702024a1e8e7a0ff815e22b2131a32d555477ab4f4be83a9d5110d201a72"
+      },
+      "6": {
+        "file_sha256": "a2a1a1df60ed08e0ce63d900716b0cb9d90260cf052837626c96e184dc4b7e98",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/dsp/blob_merge_vtr/k6/design.blif",
+        "sha256": "a2a1a1df60ed08e0ce63d900716b0cb9d90260cf052837626c96e184dc4b7e98"
+      }
+    },
+    "circuit": "blob_merge_vtr",
+    "cohort": "history",
+    "domain": "dsp",
+    "feature_csv": "source_snapshot/fpga_domain_dse/results/canonical_v2_blif_b5/blif_features/canonical_v2_blif_static_features.csv",
+    "group_eligible": true,
+    "member_id": "dsp/blob_merge_vtr",
+    "scene_id": "image_stream",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "6f3809b5a1ac81fd891b3f25fbc6002bc86156a618ad500fa857ec5a28f68f78",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/dsp/cordic/k4/design.blif",
+        "sha256": "6f3809b5a1ac81fd891b3f25fbc6002bc86156a618ad500fa857ec5a28f68f78"
+      },
+      "6": {
+        "file_sha256": "ae5b5480b5be4308645a4956829f8baa448a206c1dcd131b9ba0c442f8ab4768",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/dsp/cordic/k6/design.blif",
+        "sha256": "ae5b5480b5be4308645a4956829f8baa448a206c1dcd131b9ba0c442f8ab4768"
+      }
+    },
+    "circuit": "cordic",
+    "cohort": "history",
+    "domain": "dsp",
+    "feature_csv": "source_snapshot/fpga_domain_dse/results/canonical_v2_blif_b5/blif_features/canonical_v2_blif_static_features.csv",
+    "group_eligible": true,
+    "member_id": "dsp/cordic",
+    "scene_id": "arithmetic_iteration",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "3f7184f3a3c19b6b37e3646749396a138e1f31562d49aa98686ab0d0ed9679d6",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/dsp/diffeq1_vtr/k4/design.blif",
+        "sha256": "3f7184f3a3c19b6b37e3646749396a138e1f31562d49aa98686ab0d0ed9679d6"
+      },
+      "6": {
+        "file_sha256": "7ee88b2667045918187e61ad63a9ec9ba4fd74ffa4d3a3ac23d562edbd7b5c2b",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/dsp/diffeq1_vtr/k6/design.blif",
+        "sha256": "7ee88b2667045918187e61ad63a9ec9ba4fd74ffa4d3a3ac23d562edbd7b5c2b"
+      }
+    },
+    "circuit": "diffeq1_vtr",
+    "cohort": "history",
+    "domain": "dsp",
+    "feature_csv": "source_snapshot/fpga_domain_dse/results/canonical_v2_blif_b5/blif_features/canonical_v2_blif_static_features.csv",
+    "group_eligible": true,
+    "member_id": "dsp/diffeq1_vtr",
+    "scene_id": "arithmetic_iteration",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "27a8dda0a917e2472e4459437ffe3332c3e93d1b55773c4d8be3323e0fd5b7d6",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/dsp/diffeq2_vtr/k4/design.blif",
+        "sha256": "27a8dda0a917e2472e4459437ffe3332c3e93d1b55773c4d8be3323e0fd5b7d6"
+      },
+      "6": {
+        "file_sha256": "dfa8384224705311691b5abc0c48b551153251a013b1a13302728c11e9fe489e",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/dsp/diffeq2_vtr/k6/design.blif",
+        "sha256": "dfa8384224705311691b5abc0c48b551153251a013b1a13302728c11e9fe489e"
+      }
+    },
+    "circuit": "diffeq2_vtr",
+    "cohort": "history",
+    "domain": "dsp",
+    "feature_csv": "source_snapshot/fpga_domain_dse/results/canonical_v2_blif_b5/blif_features/canonical_v2_blif_static_features.csv",
+    "group_eligible": true,
+    "member_id": "dsp/diffeq2_vtr",
+    "scene_id": "arithmetic_iteration",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "47fe1c990284e9e1cac3148ca41843f7e5bd53849245e8e5c7bd6264016e261c",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/dsp/stereovision0_vtr/k4/design.blif",
+        "sha256": "47fe1c990284e9e1cac3148ca41843f7e5bd53849245e8e5c7bd6264016e261c"
+      },
+      "6": {
+        "file_sha256": "21b9ff106b8e538e40019c8ff13496ca819ece2b07cb157902d6500f0bc5a93c",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/dsp/stereovision0_vtr/k6/design.blif",
+        "sha256": "21b9ff106b8e538e40019c8ff13496ca819ece2b07cb157902d6500f0bc5a93c"
+      }
+    },
+    "circuit": "stereovision0_vtr",
+    "cohort": "history",
+    "domain": "dsp",
+    "feature_csv": "source_snapshot/fpga_domain_dse/results/canonical_v2_blif_b5/blif_features/canonical_v2_blif_static_features.csv",
+    "group_eligible": true,
+    "member_id": "dsp/stereovision0_vtr",
+    "scene_id": "image_stream",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "b9ef1a6425ae0f3226c852c6aa47c1eb154005a83e2cfc6ebb7f348343848ef7",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/dsp/stereovision1_vtr/k4/design.blif",
+        "sha256": "b9ef1a6425ae0f3226c852c6aa47c1eb154005a83e2cfc6ebb7f348343848ef7"
+      },
+      "6": {
+        "file_sha256": "f28851f8726678e5d29228ce32d28b3c5080402544a3388186be7dea467cb6f3",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/dsp/stereovision1_vtr/k6/design.blif",
+        "sha256": "f28851f8726678e5d29228ce32d28b3c5080402544a3388186be7dea467cb6f3"
+      }
+    },
+    "circuit": "stereovision1_vtr",
+    "cohort": "history",
+    "domain": "dsp",
+    "feature_csv": "source_snapshot/fpga_domain_dse/results/canonical_v2_blif_b5/blif_features/canonical_v2_blif_static_features.csv",
+    "group_eligible": true,
+    "member_id": "dsp/stereovision1_vtr",
+    "scene_id": "image_stream",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "eaef8480cc282e37a111bb2763c1caba80ba62a08b4973c4b5536b988423c026",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/dsp/stereovision2_vtr/k4/design.blif",
+        "sha256": "eaef8480cc282e37a111bb2763c1caba80ba62a08b4973c4b5536b988423c026"
+      },
+      "6": {
+        "file_sha256": "87589ccbed9c7bee95ecc4f043d4cdd3fa6fb6ed3ee1874bc0b4eb06fe51ddf6",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/dsp/stereovision2_vtr/k6/design.blif",
+        "sha256": "87589ccbed9c7bee95ecc4f043d4cdd3fa6fb6ed3ee1874bc0b4eb06fe51ddf6"
+      }
+    },
+    "circuit": "stereovision2_vtr",
+    "cohort": "history",
+    "domain": "dsp",
+    "feature_csv": "source_snapshot/fpga_domain_dse/results/canonical_v2_blif_b5/blif_features/canonical_v2_blif_static_features.csv",
+    "group_eligible": true,
+    "member_id": "dsp/stereovision2_vtr",
+    "scene_id": "image_stream",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "ad54ce78158a52498a76c4c97e86acd2d1f022d73cc4272b0491f3be9d5dd2f2",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/dsp/stereovision3_vtr/k4/design.blif",
+        "sha256": "ad54ce78158a52498a76c4c97e86acd2d1f022d73cc4272b0491f3be9d5dd2f2"
+      },
+      "6": {
+        "file_sha256": "369cc7197a848d80592261a678d87a2e7b52fa5000047a0226ec22d313acc4c3",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/dsp/stereovision3_vtr/k6/design.blif",
+        "sha256": "369cc7197a848d80592261a678d87a2e7b52fa5000047a0226ec22d313acc4c3"
+      }
+    },
+    "circuit": "stereovision3_vtr",
+    "cohort": "history",
+    "domain": "dsp",
+    "feature_csv": "source_snapshot/fpga_domain_dse/results/canonical_v2_blif_b5/blif_features/canonical_v2_blif_static_features.csv",
+    "group_eligible": true,
+    "member_id": "dsp/stereovision3_vtr",
+    "scene_id": "image_stream",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "8f1edf599a2d0e78536a018deee30d589e7789ee8b6f6b06578f33c4b527b081",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/ml/attention_layer_koios/k4/design.blif",
+        "sha256": "8f1edf599a2d0e78536a018deee30d589e7789ee8b6f6b06578f33c4b527b081"
+      },
+      "6": {
+        "file_sha256": "274eecabebe73e39dc8f87b7443c396f4fff21b890d99728da7cc9815948e0b5",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/ml/attention_layer_koios/k6/design.blif",
+        "sha256": "274eecabebe73e39dc8f87b7443c396f4fff21b890d99728da7cc9815948e0b5"
+      }
+    },
+    "circuit": "attention_layer_koios",
+    "cohort": "history",
+    "domain": "ml",
+    "feature_csv": "source_snapshot/fpga_domain_dse/results/canonical_v2_blif_b5/blif_features/canonical_v2_blif_static_features.csv",
+    "group_eligible": true,
+    "member_id": "ml/attention_layer_koios",
+    "scene_id": "weighted_compute",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "496ef5233ee35699e7699534e45042c5c9440d030faf58f6950fe04ed2eea78e",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/ml/conv_layer_hls_koios/k4/design.blif",
+        "sha256": "496ef5233ee35699e7699534e45042c5c9440d030faf58f6950fe04ed2eea78e"
+      },
+      "6": {
+        "file_sha256": "86259ebd425455e427d0a7ccb26c9faa54ea4173717a303f47aa0404a1f30759",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/ml/conv_layer_hls_koios/k6/design.blif",
+        "sha256": "86259ebd425455e427d0a7ccb26c9faa54ea4173717a303f47aa0404a1f30759"
+      }
+    },
+    "circuit": "conv_layer_hls_koios",
+    "cohort": "history",
+    "domain": "ml",
+    "feature_csv": "source_snapshot/fpga_domain_dse/results/canonical_v2_blif_b5/blif_features/canonical_v2_blif_static_features.csv",
+    "group_eligible": true,
+    "member_id": "ml/conv_layer_hls_koios",
+    "scene_id": "weighted_compute",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "ba40dadcdefebedd2796cc68c8c1f18ba80e87070b17bb3c4bf2e4b9184983c9",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/ml/conv_layer_koios/k4/design.blif",
+        "sha256": "ba40dadcdefebedd2796cc68c8c1f18ba80e87070b17bb3c4bf2e4b9184983c9"
+      },
+      "6": {
+        "file_sha256": "d2fd84f58898cc5fc881753ec9939d2de022950e3dbcf14259c11b5908064328",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/ml/conv_layer_koios/k6/design.blif",
+        "sha256": "d2fd84f58898cc5fc881753ec9939d2de022950e3dbcf14259c11b5908064328"
+      }
+    },
+    "circuit": "conv_layer_koios",
+    "cohort": "history",
+    "domain": "ml",
+    "feature_csv": "source_snapshot/fpga_domain_dse/results/canonical_v2_blif_b5/blif_features/canonical_v2_blif_static_features.csv",
+    "group_eligible": true,
+    "member_id": "ml/conv_layer_koios",
+    "scene_id": "weighted_compute",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "5bd8260263cdf880148be5e13ff613d80d367fd80b9d8507ee65cf2b4c9b22c5",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/ml/eltwise_layer_koios/k4/design.blif",
+        "sha256": "5bd8260263cdf880148be5e13ff613d80d367fd80b9d8507ee65cf2b4c9b22c5"
+      },
+      "6": {
+        "file_sha256": "0ebfe40ac73952bf41e8e4e3addd72cbf3fa1e40d3267d483b8d6a526d689438",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/ml/eltwise_layer_koios/k6/design.blif",
+        "sha256": "0ebfe40ac73952bf41e8e4e3addd72cbf3fa1e40d3267d483b8d6a526d689438"
+      }
+    },
+    "circuit": "eltwise_layer_koios",
+    "cohort": "history",
+    "domain": "ml",
+    "feature_csv": "source_snapshot/fpga_domain_dse/results/canonical_v2_blif_b5/blif_features/canonical_v2_blif_static_features.csv",
+    "group_eligible": true,
+    "member_id": "ml/eltwise_layer_koios",
+    "scene_id": "tensor_auxiliary",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "693097632f9be6e556e2b6860dbfdaa8ee145bca7c51f1a182cc9f8eade89c59",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/ml/reduction_layer_koios/k4/design.blif",
+        "sha256": "693097632f9be6e556e2b6860dbfdaa8ee145bca7c51f1a182cc9f8eade89c59"
+      },
+      "6": {
+        "file_sha256": "9c234d3876c19a65e7653be366e27af41947935b85b9afb759ebe01072ff261e",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/ml/reduction_layer_koios/k6/design.blif",
+        "sha256": "9c234d3876c19a65e7653be366e27af41947935b85b9afb759ebe01072ff261e"
+      }
+    },
+    "circuit": "reduction_layer_koios",
+    "cohort": "history",
+    "domain": "ml",
+    "feature_csv": "source_snapshot/fpga_domain_dse/results/canonical_v2_blif_b5/blif_features/canonical_v2_blif_static_features.csv",
+    "group_eligible": true,
+    "member_id": "ml/reduction_layer_koios",
+    "scene_id": "tensor_auxiliary",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "b3587b5320fe9d792375f5b8d285640f39afd8eae1fbd7fa21140ae2305d898d",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/ml/robot_rl_koios/k4/design.blif",
+        "sha256": "b3587b5320fe9d792375f5b8d285640f39afd8eae1fbd7fa21140ae2305d898d"
+      },
+      "6": {
+        "file_sha256": "bfee1601a3a36601e83a88294c4c91e1361cdaa7c6cedf2877699ad54fecca03",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/ml/robot_rl_koios/k6/design.blif",
+        "sha256": "bfee1601a3a36601e83a88294c4c91e1361cdaa7c6cedf2877699ad54fecca03"
+      }
+    },
+    "circuit": "robot_rl_koios",
+    "cohort": "history",
+    "domain": "ml",
+    "feature_csv": "source_snapshot/fpga_domain_dse/results/canonical_v2_blif_b5/blif_features/canonical_v2_blif_static_features.csv",
+    "group_eligible": true,
+    "member_id": "ml/robot_rl_koios",
+    "scene_id": "reinforcement_learning",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "6bf7efc1e47df19be363ed065637498c024fb53c90259de38e24e3ab65c256cd",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/ml/softmax_koios/k4/design.blif",
+        "sha256": "6bf7efc1e47df19be363ed065637498c024fb53c90259de38e24e3ab65c256cd"
+      },
+      "6": {
+        "file_sha256": "6667a95b34e0bdfa6b49143bcf9e6612abdd687d50c6dc6e886f66e71feb3cae",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/ml/softmax_koios/k6/design.blif",
+        "sha256": "6667a95b34e0bdfa6b49143bcf9e6612abdd687d50c6dc6e886f66e71feb3cae"
+      }
+    },
+    "circuit": "softmax_koios",
+    "cohort": "history",
+    "domain": "ml",
+    "feature_csv": "source_snapshot/fpga_domain_dse/results/canonical_v2_blif_b5/blif_features/canonical_v2_blif_static_features.csv",
+    "group_eligible": true,
+    "member_id": "ml/softmax_koios",
+    "scene_id": "tensor_auxiliary",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "947d4b3bb28cb845c52710b99cc2c951da7fe054df7ae49eb987a610a8f0d079",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/ml/spmv_koios/k4/design.blif",
+        "sha256": "947d4b3bb28cb845c52710b99cc2c951da7fe054df7ae49eb987a610a8f0d079"
+      },
+      "6": {
+        "file_sha256": "a3f9dd3dab86c9073c008575a7fd35c8190c653fe5859a99aca44d02dc70da1c",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/ml/spmv_koios/k6/design.blif",
+        "sha256": "a3f9dd3dab86c9073c008575a7fd35c8190c653fe5859a99aca44d02dc70da1c"
+      }
+    },
+    "circuit": "spmv_koios",
+    "cohort": "history",
+    "domain": "ml",
+    "feature_csv": "source_snapshot/fpga_domain_dse/results/canonical_v2_blif_b5/blif_features/canonical_v2_blif_static_features.csv",
+    "group_eligible": true,
+    "member_id": "ml/spmv_koios",
+    "scene_id": "weighted_compute",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "9d5162c06196420bdc1a52e2604287c6a5d409373c8b09c7e825c1bc4c79476e",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/ml/tpu_like.small.os_koios/k4/design.blif",
+        "sha256": "9d5162c06196420bdc1a52e2604287c6a5d409373c8b09c7e825c1bc4c79476e"
+      },
+      "6": {
+        "file_sha256": "a0a592cd7b912c0bee74b2be16d1f4a0b3300d4a29b469edf161352d9106acad",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/ml/tpu_like.small.os_koios/k6/design.blif",
+        "sha256": "a0a592cd7b912c0bee74b2be16d1f4a0b3300d4a29b469edf161352d9106acad"
+      }
+    },
+    "circuit": "tpu_like.small.os_koios",
+    "cohort": "history",
+    "domain": "ml",
+    "feature_csv": "source_snapshot/fpga_domain_dse/results/canonical_v2_blif_b5/blif_features/canonical_v2_blif_static_features.csv",
+    "group_eligible": true,
+    "member_id": "ml/tpu_like.small.os_koios",
+    "scene_id": "weighted_compute",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "082b45a6dab38c8b7662e8da1c414ec6bc644b16b6111851b407cab42d8a0352",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/ml/tpu_like.small.ws_koios/k4/design.blif",
+        "sha256": "082b45a6dab38c8b7662e8da1c414ec6bc644b16b6111851b407cab42d8a0352"
+      },
+      "6": {
+        "file_sha256": "f7dcbb9eeea95a3b7b7907c54a41720fe10a9490cb2241ec3b360a0a60e33093",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/canonical_synth_v2/corpus/ml/tpu_like.small.ws_koios/k6/design.blif",
+        "sha256": "f7dcbb9eeea95a3b7b7907c54a41720fe10a9490cb2241ec3b360a0a60e33093"
+      }
+    },
+    "circuit": "tpu_like.small.ws_koios",
+    "cohort": "history",
+    "domain": "ml",
+    "feature_csv": "source_snapshot/fpga_domain_dse/results/canonical_v2_blif_b5/blif_features/canonical_v2_blif_static_features.csv",
+    "group_eligible": true,
+    "member_id": "ml/tpu_like.small.ws_koios",
+    "scene_id": "weighted_compute",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "52d685413d885ef320582517aca2b6786a349ec1519c35be216e06384277a247",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/confirmation_v1/canonical_synth_v2/corpus/comm/enet_core/k4/design.blif",
+        "sha256": "52d685413d885ef320582517aca2b6786a349ec1519c35be216e06384277a247"
+      },
+      "6": {
+        "file_sha256": "37ebe6c44ae846feacee7a11c975bf898ea4d68defcd1fcf301061f96bc3b955",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/confirmation_v1/canonical_synth_v2/corpus/comm/enet_core/k6/design.blif",
+        "sha256": "37ebe6c44ae846feacee7a11c975bf898ea4d68defcd1fcf301061f96bc3b955"
+      }
+    },
+    "circuit": "enet_core",
+    "cohort": "extra",
+    "domain": "comm",
+    "feature_csv": "source_snapshot/fpga_domain_dse/confirmation_v1/shortlist_freeze/features/comm__enet_core/static_features.csv",
+    "group_eligible": false,
+    "member_id": "comm/enet_core",
+    "scene_id": "packet_datapath",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "fe720cd3fd09641bc4f8e58603e8ed493758841559cb971505015ad2f88e399d",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/confirmation_v1/canonical_synth_v2/corpus/comm/fpga_can/k4/design.blif",
+        "sha256": "fe720cd3fd09641bc4f8e58603e8ed493758841559cb971505015ad2f88e399d"
+      },
+      "6": {
+        "file_sha256": "76c864b7f2b36d4eef1f285b648c989a473e02bdff52a0fc3dc7a607330087ef",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/confirmation_v1/canonical_synth_v2/corpus/comm/fpga_can/k6/design.blif",
+        "sha256": "76c864b7f2b36d4eef1f285b648c989a473e02bdff52a0fc3dc7a607330087ef"
+      }
+    },
+    "circuit": "fpga_can",
+    "cohort": "extra",
+    "domain": "comm",
+    "feature_csv": "source_snapshot/fpga_domain_dse/confirmation_v1/shortlist_freeze/features/comm__fpga_can/static_features.csv",
+    "group_eligible": false,
+    "member_id": "comm/fpga_can",
+    "scene_id": "serial_peripheral",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "36082c92f629f6a5e63ad29784322a4cc917bd239c69f4f397918469ee91c50b",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/confirmation_v1/canonical_synth_v2/corpus/comm/i2s_rx/k4/design.blif",
+        "sha256": "36082c92f629f6a5e63ad29784322a4cc917bd239c69f4f397918469ee91c50b"
+      },
+      "6": {
+        "file_sha256": "46113797335b12ab3bb9a14bd76275a1674597d0cea54a267287b285860fdb3d",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/confirmation_v1/canonical_synth_v2/corpus/comm/i2s_rx/k6/design.blif",
+        "sha256": "46113797335b12ab3bb9a14bd76275a1674597d0cea54a267287b285860fdb3d"
+      }
+    },
+    "circuit": "i2s_rx",
+    "cohort": "extra",
+    "domain": "comm",
+    "feature_csv": "source_snapshot/fpga_domain_dse/confirmation_v1/shortlist_freeze/features/comm__i2s_rx/static_features.csv",
+    "group_eligible": false,
+    "member_id": "comm/i2s_rx",
+    "scene_id": "serial_peripheral",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "6ebc387e4d851700298989a36bc9c1b7bdfb3541ddeeada12bf1441897a5f5c7",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/confirmation_v1/canonical_synth_v2/corpus/comm/spi_apb/k4/design.blif",
+        "sha256": "6ebc387e4d851700298989a36bc9c1b7bdfb3541ddeeada12bf1441897a5f5c7"
+      },
+      "6": {
+        "file_sha256": "6d740c7ff3a125c07460dbf42305e63cf06f9362df73783753b1e2298de1fb76",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/confirmation_v1/canonical_synth_v2/corpus/comm/spi_apb/k6/design.blif",
+        "sha256": "6d740c7ff3a125c07460dbf42305e63cf06f9362df73783753b1e2298de1fb76"
+      }
+    },
+    "circuit": "spi_apb",
+    "cohort": "extra",
+    "domain": "comm",
+    "feature_csv": "source_snapshot/fpga_domain_dse/confirmation_v1/shortlist_freeze/features/comm__spi_apb/static_features.csv",
+    "group_eligible": false,
+    "member_id": "comm/spi_apb",
+    "scene_id": "serial_peripheral",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "5a8a87055215611841bc5035bfc8f5820a700ce239ddac83a167d16aff9c2afe",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/confirmation_v1/canonical_synth_v2/corpus/crypto/secworks_ascon/k4/design.blif",
+        "sha256": "5a8a87055215611841bc5035bfc8f5820a700ce239ddac83a167d16aff9c2afe"
+      },
+      "6": {
+        "file_sha256": "f2f4562eb09dd5dcadee7df9d38d924275b61e3c80d1549f733bd43a6be28e9a",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/confirmation_v1/canonical_synth_v2/corpus/crypto/secworks_ascon/k6/design.blif",
+        "sha256": "f2f4562eb09dd5dcadee7df9d38d924275b61e3c80d1549f733bd43a6be28e9a"
+      }
+    },
+    "circuit": "secworks_ascon",
+    "cohort": "extra",
+    "domain": "crypto",
+    "feature_csv": "source_snapshot/fpga_domain_dse/confirmation_v1/shortlist_freeze/features/crypto__secworks_ascon/static_features.csv",
+    "group_eligible": false,
+    "member_id": "crypto/secworks_ascon",
+    "scene_id": "control_skeleton",
+    "scope_status": "control_skeleton",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "34b077c848771fc7dd5d6881d400264aa001a35352ed86ded2d29509d71ed906",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/confirmation_v1/canonical_synth_v2/corpus/crypto/secworks_gift/k4/design.blif",
+        "sha256": "34b077c848771fc7dd5d6881d400264aa001a35352ed86ded2d29509d71ed906"
+      },
+      "6": {
+        "file_sha256": "818cd209197d3fe7ee41f2b0d0d7aabc87019f5ce3ede3c7e311fe3938f1529b",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/confirmation_v1/canonical_synth_v2/corpus/crypto/secworks_gift/k6/design.blif",
+        "sha256": "818cd209197d3fe7ee41f2b0d0d7aabc87019f5ce3ede3c7e311fe3938f1529b"
+      }
+    },
+    "circuit": "secworks_gift",
+    "cohort": "extra",
+    "domain": "crypto",
+    "feature_csv": "source_snapshot/fpga_domain_dse/confirmation_v1/shortlist_freeze/features/crypto__secworks_gift/static_features.csv",
+    "group_eligible": false,
+    "member_id": "crypto/secworks_gift",
+    "scene_id": "cipher_datapath",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "837d45ee33a9fde681605886bd389743e689ae903565aa429c6606af0f491424",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/confirmation_v1/canonical_synth_v2/corpus/crypto/secworks_qarma/k4/design.blif",
+        "sha256": "837d45ee33a9fde681605886bd389743e689ae903565aa429c6606af0f491424"
+      },
+      "6": {
+        "file_sha256": "837d45ee33a9fde681605886bd389743e689ae903565aa429c6606af0f491424",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/confirmation_v1/canonical_synth_v2/corpus/crypto/secworks_qarma/k6/design.blif",
+        "sha256": "837d45ee33a9fde681605886bd389743e689ae903565aa429c6606af0f491424"
+      }
+    },
+    "circuit": "secworks_qarma",
+    "cohort": "extra",
+    "domain": "crypto",
+    "feature_csv": "source_snapshot/fpga_domain_dse/confirmation_v1/shortlist_freeze/features/crypto__secworks_qarma/static_features.csv",
+    "group_eligible": false,
+    "member_id": "crypto/secworks_qarma",
+    "scene_id": "control_skeleton",
+    "scope_status": "control_skeleton",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "0d1f508eec6a2327dffd7bc88ec6323c315d1e5d76bfe2dedf6ff18f741870aa",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/confirmation_v1/canonical_synth_v2/corpus/crypto/secworks_sha512/k4/design.blif",
+        "sha256": "0d1f508eec6a2327dffd7bc88ec6323c315d1e5d76bfe2dedf6ff18f741870aa"
+      },
+      "6": {
+        "file_sha256": "0f4ecc73ab742141997a8530dafd86350fc062f0072bf574aa3ecdccf546a823",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/confirmation_v1/canonical_synth_v2/corpus/crypto/secworks_sha512/k6/design.blif",
+        "sha256": "0f4ecc73ab742141997a8530dafd86350fc062f0072bf574aa3ecdccf546a823"
+      }
+    },
+    "circuit": "secworks_sha512",
+    "cohort": "extra",
+    "domain": "crypto",
+    "feature_csv": "source_snapshot/fpga_domain_dse/confirmation_v1/shortlist_freeze/features/crypto__secworks_sha512/static_features.csv",
+    "group_eligible": false,
+    "member_id": "crypto/secworks_sha512",
+    "scene_id": "hash_datapath",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "4c012816ad17679ff0eacbe6d9c7945228995ee217557be8220524eafe2b733f",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/confirmation_v1/canonical_synth_v2/corpus/ctrl/darkriscv/k4/design.blif",
+        "sha256": "4c012816ad17679ff0eacbe6d9c7945228995ee217557be8220524eafe2b733f"
+      },
+      "6": {
+        "file_sha256": "e0f1ca1ee32e32cb97fdbacb098b5c62fe8a17ab7243174a6f8f0d0943674509",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/confirmation_v1/canonical_synth_v2/corpus/ctrl/darkriscv/k6/design.blif",
+        "sha256": "e0f1ca1ee32e32cb97fdbacb098b5c62fe8a17ab7243174a6f8f0d0943674509"
+      }
+    },
+    "circuit": "darkriscv",
+    "cohort": "extra",
+    "domain": "ctrl",
+    "feature_csv": "source_snapshot/fpga_domain_dse/confirmation_v1/shortlist_freeze/features/ctrl__darkriscv/static_features.csv",
+    "group_eligible": false,
+    "member_id": "ctrl/darkriscv",
+    "scene_id": "processor",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "32c1bb2e78691fe7860db14d2773f6d6d887d2089d296729edd6e18b5fff99f2",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/confirmation_v1/canonical_synth_v2/corpus/ctrl/epfl_arbiter/k4/design.blif",
+        "sha256": "32c1bb2e78691fe7860db14d2773f6d6d887d2089d296729edd6e18b5fff99f2"
+      },
+      "6": {
+        "file_sha256": "63c79f5ac664cf8e86e19758724fc25e1d2d04b35c04080eb24aeb8506309eff",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/confirmation_v1/canonical_synth_v2/corpus/ctrl/epfl_arbiter/k6/design.blif",
+        "sha256": "63c79f5ac664cf8e86e19758724fc25e1d2d04b35c04080eb24aeb8506309eff"
+      }
+    },
+    "circuit": "epfl_arbiter",
+    "cohort": "extra",
+    "domain": "ctrl",
+    "feature_csv": "source_snapshot/fpga_domain_dse/confirmation_v1/shortlist_freeze/features/ctrl__epfl_arbiter/static_features.csv",
+    "group_eligible": false,
+    "member_id": "ctrl/epfl_arbiter",
+    "scene_id": "arbitration",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "e1fdd3f84ab870bcecd6c8f74819a7d6b5ef54f719a910e78262ff0ec2be71b2",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/confirmation_v1/canonical_synth_v2/corpus/ctrl/secworks_6502/k4/design.blif",
+        "sha256": "e1fdd3f84ab870bcecd6c8f74819a7d6b5ef54f719a910e78262ff0ec2be71b2"
+      },
+      "6": {
+        "file_sha256": "e1fdd3f84ab870bcecd6c8f74819a7d6b5ef54f719a910e78262ff0ec2be71b2",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/confirmation_v1/canonical_synth_v2/corpus/ctrl/secworks_6502/k6/design.blif",
+        "sha256": "e1fdd3f84ab870bcecd6c8f74819a7d6b5ef54f719a910e78262ff0ec2be71b2"
+      }
+    },
+    "circuit": "secworks_6502",
+    "cohort": "extra",
+    "domain": "ctrl",
+    "feature_csv": "source_snapshot/fpga_domain_dse/confirmation_v1/shortlist_freeze/features/ctrl__secworks_6502/static_features.csv",
+    "group_eligible": false,
+    "member_id": "ctrl/secworks_6502",
+    "scene_id": "control_skeleton",
+    "scope_status": "control_skeleton",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "ba489c651f587ee204fad633689e956bee59b5c44970f27d669b91823d03dfa8",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/confirmation_v1/canonical_synth_v2/corpus/ctrl/ultraembedded_riscv/k4/design.blif",
+        "sha256": "ba489c651f587ee204fad633689e956bee59b5c44970f27d669b91823d03dfa8"
+      },
+      "6": {
+        "file_sha256": "6ed7f3b455d54d20f68bf956b766fc48b0ce0b93eb6c71f4cea43585959f435a",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/confirmation_v1/canonical_synth_v2/corpus/ctrl/ultraembedded_riscv/k6/design.blif",
+        "sha256": "6ed7f3b455d54d20f68bf956b766fc48b0ce0b93eb6c71f4cea43585959f435a"
+      }
+    },
+    "circuit": "ultraembedded_riscv",
+    "cohort": "extra",
+    "domain": "ctrl",
+    "feature_csv": "source_snapshot/fpga_domain_dse/confirmation_v1/shortlist_freeze/features/ctrl__ultraembedded_riscv/static_features.csv",
+    "group_eligible": false,
+    "member_id": "ctrl/ultraembedded_riscv",
+    "scene_id": "processor",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "5805672cf0d29002a76f8c26f6b3809ed4fd0e6db50f0cf5df8c2d4a407c67b9",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/confirmation_v1/canonical_synth_v2/corpus/dsp/epfl_div/k4/design.blif",
+        "sha256": "5805672cf0d29002a76f8c26f6b3809ed4fd0e6db50f0cf5df8c2d4a407c67b9"
+      },
+      "6": {
+        "file_sha256": "e18f4b9f596447a25094bd550db981358f9489feab44d625e420c7962aa316a6",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/confirmation_v1/canonical_synth_v2/corpus/dsp/epfl_div/k6/design.blif",
+        "sha256": "e18f4b9f596447a25094bd550db981358f9489feab44d625e420c7962aa316a6"
+      }
+    },
+    "circuit": "epfl_div",
+    "cohort": "extra",
+    "domain": "dsp",
+    "feature_csv": "source_snapshot/fpga_domain_dse/confirmation_v1/shortlist_freeze/features/dsp__epfl_div/static_features.csv",
+    "group_eligible": false,
+    "member_id": "dsp/epfl_div",
+    "scene_id": "combinational_arithmetic",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "88f97e20a032f3bcce665250a689e124762774c4debff7770825b40bf5803418",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/confirmation_v1/canonical_synth_v2/corpus/dsp/epfl_sqrt/k4/design.blif",
+        "sha256": "88f97e20a032f3bcce665250a689e124762774c4debff7770825b40bf5803418"
+      },
+      "6": {
+        "file_sha256": "1981312a3b87b9049f6a60f152a9874c7d756c507c61d087c54d7a9edfcef40b",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/confirmation_v1/canonical_synth_v2/corpus/dsp/epfl_sqrt/k6/design.blif",
+        "sha256": "1981312a3b87b9049f6a60f152a9874c7d756c507c61d087c54d7a9edfcef40b"
+      }
+    },
+    "circuit": "epfl_sqrt",
+    "cohort": "extra",
+    "domain": "dsp",
+    "feature_csv": "source_snapshot/fpga_domain_dse/confirmation_v1/shortlist_freeze/features/dsp__epfl_sqrt/static_features.csv",
+    "group_eligible": false,
+    "member_id": "dsp/epfl_sqrt",
+    "scene_id": "combinational_arithmetic",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "c5030f2851adee37371213e2e9c15782a4e974b630bd5a8f4340bb611ffdb786",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/confirmation_v1/canonical_synth_v2/corpus/dsp/zipcpu_boxcar/k4/design.blif",
+        "sha256": "c5030f2851adee37371213e2e9c15782a4e974b630bd5a8f4340bb611ffdb786"
+      },
+      "6": {
+        "file_sha256": "5bd8257705ea8a171c65b7be6dd7086ede63422bccc54393420a5000484fd7d7",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/confirmation_v1/canonical_synth_v2/corpus/dsp/zipcpu_boxcar/k6/design.blif",
+        "sha256": "5bd8257705ea8a171c65b7be6dd7086ede63422bccc54393420a5000484fd7d7"
+      }
+    },
+    "circuit": "zipcpu_boxcar",
+    "cohort": "extra",
+    "domain": "dsp",
+    "feature_csv": "source_snapshot/fpga_domain_dse/confirmation_v1/shortlist_freeze/features/dsp__zipcpu_boxcar/static_features.csv",
+    "group_eligible": false,
+    "member_id": "dsp/zipcpu_boxcar",
+    "scene_id": "filter_datapath",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "a7ff1fe474b8b409079e4adb63b16036224896eb4df2bcd667a0e3a6e1e346ab",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/confirmation_v1/canonical_synth_v2/corpus/dsp/zipcpu_slowfil/k4/design.blif",
+        "sha256": "a7ff1fe474b8b409079e4adb63b16036224896eb4df2bcd667a0e3a6e1e346ab"
+      },
+      "6": {
+        "file_sha256": "8d62021a4378cc1b0d9e04683ef80af1504ed9d4d22b870204507bd305fbb4be",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/confirmation_v1/canonical_synth_v2/corpus/dsp/zipcpu_slowfil/k6/design.blif",
+        "sha256": "8d62021a4378cc1b0d9e04683ef80af1504ed9d4d22b870204507bd305fbb4be"
+      }
+    },
+    "circuit": "zipcpu_slowfil",
+    "cohort": "extra",
+    "domain": "dsp",
+    "feature_csv": "source_snapshot/fpga_domain_dse/confirmation_v1/shortlist_freeze/features/dsp__zipcpu_slowfil/static_features.csv",
+    "group_eligible": false,
+    "member_id": "dsp/zipcpu_slowfil",
+    "scene_id": "filter_datapath",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "ce1efeccbe4909da5c1a259c513274e2efe8d89a62e6288684cd02feafea1e00",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/confirmation_v1/canonical_synth_v2/corpus/ml/koios_bwave_fixed_small/k4/design.blif",
+        "sha256": "ce1efeccbe4909da5c1a259c513274e2efe8d89a62e6288684cd02feafea1e00"
+      },
+      "6": {
+        "file_sha256": "14081ed7e8d5f5979eb1539f09b48e27afd28e688d57a0de6d81aa4fbabaaeb8",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/confirmation_v1/canonical_synth_v2/corpus/ml/koios_bwave_fixed_small/k6/design.blif",
+        "sha256": "14081ed7e8d5f5979eb1539f09b48e27afd28e688d57a0de6d81aa4fbabaaeb8"
+      }
+    },
+    "circuit": "koios_bwave_fixed_small",
+    "cohort": "extra",
+    "domain": "ml",
+    "feature_csv": "source_snapshot/fpga_domain_dse/confirmation_v1/shortlist_freeze/features/ml__koios_bwave_fixed_small/static_features.csv",
+    "group_eligible": false,
+    "member_id": "ml/koios_bwave_fixed_small",
+    "scene_id": "weighted_compute",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "3aa3975d589acd21b9bb6b0557d26ae2740b55edf2749e522f9db1ec951a96b1",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/confirmation_v1/canonical_synth_v2/corpus/ml/koios_clstm_small/k4/design.blif.gz",
+        "sha256": "fd934c971dfd31904fd143b71b5404f11bc6f560ecf332f4d7a3175b65e84e63"
+      },
+      "6": {
+        "file_sha256": "94885111501fbe3343d8fa5bcf85955b7ba3146b21b60aac98bf8ec95da9cf64",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/confirmation_v1/canonical_synth_v2/corpus/ml/koios_clstm_small/k6/design.blif.gz",
+        "sha256": "1d85669d6b16cad13b6d44d8d515534ba86d7fa51992fbad157a46297c3a5532"
+      }
+    },
+    "circuit": "koios_clstm_small",
+    "cohort": "extra",
+    "domain": "ml",
+    "feature_csv": "source_snapshot/fpga_domain_dse/confirmation_v1/shortlist_freeze/features/ml__koios_clstm_small/static_features.csv",
+    "group_eligible": false,
+    "member_id": "ml/koios_clstm_small",
+    "scene_id": "weighted_compute",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "419069719bf68833532b614f2a49c646b21d8f34ad62acba1707f71689bb9350",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/confirmation_v1/canonical_synth_v2/corpus/ml/koios_dnnweaver/k4/design.blif",
+        "sha256": "419069719bf68833532b614f2a49c646b21d8f34ad62acba1707f71689bb9350"
+      },
+      "6": {
+        "file_sha256": "663aac231af9f64d11f68a99fa7af35011dbd5844f91c572715e224a288c8d21",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/confirmation_v1/canonical_synth_v2/corpus/ml/koios_dnnweaver/k6/design.blif",
+        "sha256": "663aac231af9f64d11f68a99fa7af35011dbd5844f91c572715e224a288c8d21"
+      }
+    },
+    "circuit": "koios_dnnweaver",
+    "cohort": "extra",
+    "domain": "ml",
+    "feature_csv": "source_snapshot/fpga_domain_dse/confirmation_v1/shortlist_freeze/features/ml__koios_dnnweaver/static_features.csv",
+    "group_eligible": false,
+    "member_id": "ml/koios_dnnweaver",
+    "scene_id": "weighted_compute",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  },
+  {
+    "blifs": {
+      "4": {
+        "file_sha256": "7eb53cf7bcf887089f74c5dba5e605061e07231e5b007ab443047788c7c27567",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/confirmation_v1/canonical_synth_v2/corpus/ml/koios_lstm/k4/design.blif",
+        "sha256": "7eb53cf7bcf887089f74c5dba5e605061e07231e5b007ab443047788c7c27567"
+      },
+      "6": {
+        "file_sha256": "38863aa4f6e7a0b70a1a28e80462a2a1ff3a5f3cf21a0cca4b673cd84a8a611f",
+        "hash_semantics": "uncompressed_blif",
+        "path": "source_snapshot/fpga_domain_dse/confirmation_v1/canonical_synth_v2/corpus/ml/koios_lstm/k6/design.blif",
+        "sha256": "38863aa4f6e7a0b70a1a28e80462a2a1ff3a5f3cf21a0cca4b673cd84a8a611f"
+      }
+    },
+    "circuit": "koios_lstm",
+    "cohort": "extra",
+    "domain": "ml",
+    "feature_csv": "source_snapshot/fpga_domain_dse/confirmation_v1/shortlist_freeze/features/ml__koios_lstm/static_features.csv",
+    "group_eligible": false,
+    "member_id": "ml/koios_lstm",
+    "scene_id": "weighted_compute",
+    "scope_status": "functional_role_registered_not_full_system_certification",
+    "source_audit_status": "known_links_plus_unverified_singletons"
+  }
+]

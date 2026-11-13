@@ -1,0 +1,665 @@
+{
+  "cache_vs_extracted_features_match": true,
+  "cohort": "extra",
+  "cost": {
+    "blif_parse_s": 0.10445660003460944,
+    "cache_read_s": 0.00040520005859434605,
+    "cache_scope": "identity_comparison_not_feature_extraction",
+    "feature_total_s": 0.2296148999594152,
+    "graph_features_s": 0.117546999710612,
+    "group_encoding_s": 7.770000956952572e-05,
+    "hash_scan_s": 0.006011700024828315,
+    "historical_training_included": false,
+    "member_encode_s": 0.00013869989197701216,
+    "member_timings": {
+      "crypto/secworks_ascon": {
+        "blif_parse_s": 0.00030419998802244663,
+        "graph_features_s": 0.0005824998952448368,
+        "hash_scan_s": 0.0006491000531241298,
+        "member_encode_s": 2.929999027401209e-05,
+        "parser_load_s": 9.00006853044033e-07,
+        "per_k": {
+          "4": {
+            "blif_parse_s": 0.0001498999772593379,
+            "graph_features_s": 0.0003477999707683921,
+            "hash_scan_s": 0.0003250000299885869,
+            "storage_hash_scan_s": 0.0003250000299885869,
+            "uncompressed_hash_scan_s": 0.0
+          },
+          "6": {
+            "blif_parse_s": 0.00015430001076310873,
+            "graph_features_s": 0.00023469992447644472,
+            "hash_scan_s": 0.00032410002313554287,
+            "storage_hash_scan_s": 0.00032410002313554287,
+            "uncompressed_hash_scan_s": 0.0
+          }
+        },
+        "source": "blif_extraction",
+        "storage_hash_scan_s": 0.0006491000531241298,
+        "total_member_s": 0.0018738999497145414,
+        "uncompressed_hash_scan_s": 0.0,
+        "unit": "seconds"
+      },
+      "crypto/secworks_gift": {
+        "blif_parse_s": 0.01552140002604574,
+        "graph_features_s": 0.010295799933373928,
+        "hash_scan_s": 0.0010733999079093337,
+        "member_encode_s": 4.139996599406004e-05,
+        "parser_load_s": 4.00003045797348e-07,
+        "per_k": {
+          "4": {
+            "blif_parse_s": 0.005626500002108514,
+            "graph_features_s": 0.005315599963068962,
+            "hash_scan_s": 0.0004816999426111579,
+            "storage_hash_scan_s": 0.0004816999426111579,
+            "uncompressed_hash_scan_s": 0.0
+          },
+          "6": {
+            "blif_parse_s": 0.009894900023937225,
+            "graph_features_s": 0.004980199970304966,
+            "hash_scan_s": 0.0005916999652981758,
+            "storage_hash_scan_s": 0.0005916999652981758,
+            "uncompressed_hash_scan_s": 0.0
+          }
+        },
+        "source": "blif_extraction",
+        "storage_hash_scan_s": 0.0010733999079093337,
+        "total_member_s": 0.0272794000338763,
+        "uncompressed_hash_scan_s": 0.0,
+        "unit": "seconds"
+      },
+      "crypto/secworks_qarma": {
+        "blif_parse_s": 0.00047670002095401287,
+        "graph_features_s": 0.0004789999220520258,
+        "hash_scan_s": 0.0006241999799385667,
+        "member_encode_s": 2.9499991796910763e-05,
+        "parser_load_s": 5.00003807246685e-07,
+        "per_k": {
+          "4": {
+            "blif_parse_s": 0.00024300010409206152,
+            "graph_features_s": 0.0002479999093338847,
+            "hash_scan_s": 0.0003081999020650983,
+            "storage_hash_scan_s": 0.0003081999020650983,
+            "uncompressed_hash_scan_s": 0.0
+          },
+          "6": {
+            "blif_parse_s": 0.00023369991686195135,
+            "graph_features_s": 0.00023100001271814108,
+            "hash_scan_s": 0.0003160000778734684,
+            "storage_hash_scan_s": 0.0003160000778734684,
+            "uncompressed_hash_scan_s": 0.0
+          }
+        },
+        "source": "blif_extraction",
+        "storage_hash_scan_s": 0.0006241999799385667,
+        "total_member_s": 0.001987600000575185,
+        "uncompressed_hash_scan_s": 0.0,
+        "unit": "seconds"
+      },
+      "crypto/secworks_sha512": {
+        "blif_parse_s": 0.08815429999958724,
+        "graph_features_s": 0.10618969995994121,
+        "hash_scan_s": 0.0036650000838562846,
+        "member_encode_s": 3.8499943912029266e-05,
+        "parser_load_s": 5.00003807246685e-07,
+        "per_k": {
+          "4": {
+            "blif_parse_s": 0.03629750001709908,
+            "graph_features_s": 0.035098599968478084,
+            "hash_scan_s": 0.001729500014334917,
+            "storage_hash_scan_s": 0.001729500014334917,
+            "uncompressed_hash_scan_s": 0.0
+          },
+          "6": {
+            "blif_parse_s": 0.051856799982488155,
+            "graph_features_s": 0.07109109999146312,
+            "hash_scan_s": 0.0019355000695213675,
+            "storage_hash_scan_s": 0.0019355000695213675,
+            "uncompressed_hash_scan_s": 0.0
+          }
+        },
+        "source": "blif_extraction",
+        "storage_hash_scan_s": 0.0036650000838562846,
+        "total_member_s": 0.19847399997524917,
+        "uncompressed_hash_scan_s": 0.0,
+        "unit": "seconds"
+      }
+    },
+    "model_load_s": 0.06841319997329265,
+    "physical_confirmation_included": false,
+    "storage_hash_scan_s": 0.006011700024828315,
+    "synthesis_included": false,
+    "target_input": "existing_K4_K6_netlists",
+    "target_pack_calls": 0,
+    "target_place_calls": 0,
+    "target_route_calls": 0,
+    "uncompressed_hash_scan_s": 0.0,
+    "unit": "seconds"
+  },
+  "evidence_identity": "locked_retrospective_not_prospective",
+  "feature_input_sha256": {
+    "crypto/secworks_ascon": {
+      "4": "5a8a87055215611841bc5035bfc8f5820a700ce239ddac83a167d16aff9c2afe",
+      "6": "f2f4562eb09dd5dcadee7df9d38d924275b61e3c80d1549f733bd43a6be28e9a"
+    },
+    "crypto/secworks_gift": {
+      "4": "34b077c848771fc7dd5d6881d400264aa001a35352ed86ded2d29509d71ed906",
+      "6": "818cd209197d3fe7ee41f2b0d0d7aabc87019f5ce3ede3c7e311fe3938f1529b"
+    },
+    "crypto/secworks_qarma": {
+      "4": "837d45ee33a9fde681605886bd389743e689ae903565aa429c6606af0f491424",
+      "6": "837d45ee33a9fde681605886bd389743e689ae903565aa429c6606af0f491424"
+    },
+    "crypto/secworks_sha512": {
+      "4": "0d1f508eec6a2327dffd7bc88ec6323c315d1e5d76bfe2dedf6ff18f741870aa",
+      "6": "0f4ecc73ab742141997a8530dafd86350fc062f0072bf574aa3ecdccf546a823"
+    }
+  },
+  "feature_schema_id": "snpf4fpga-known-set-features-v1",
+  "group_id": "external_cipher4",
+  "members": [
+    "crypto/secworks_ascon",
+    "crypto/secworks_gift",
+    "crypto/secworks_qarma",
+    "crypto/secworks_sha512"
+  ],
+  "model_frozen_at": "2026-10-27T12:32:39.294261+00:00",
+  "model_id": "final_shared",
+  "model_sha256": "0e5558c00474ff4c5198344e72944e07b4d2946d843f7cbe0dbe58bd607c47a4",
+  "policies": {
+    "group_candidate_prior": {
+      "diagnostics": {
+        "candidate_count": 208,
+        "effective_budget": 8,
+        "elapsed_seconds": 0.04777689999900758,
+        "failure_replacement": false,
+        "fusion_conditional_gain_weight": null,
+        "fusion_prior_weight": null,
+        "history_smoothing": null,
+        "policy": "group_candidate_prior",
+        "prefixes": [
+          [
+            "K4N8_R026"
+          ],
+          [
+            "K4N8_R026",
+            "K6N8_R049"
+          ],
+          [
+            "K4N8_R026",
+            "K6N8_R049",
+            "K4N10_R049"
+          ],
+          [
+            "K4N8_R026",
+            "K6N8_R049",
+            "K4N10_R049",
+            "K6N10_R050"
+          ],
+          [
+            "K4N8_R026",
+            "K6N8_R049",
+            "K4N10_R049",
+            "K6N10_R050",
+            "K6N10_R047"
+          ],
+          [
+            "K4N8_R026",
+            "K6N8_R049",
+            "K4N10_R049",
+            "K6N10_R050",
+            "K6N10_R047",
+            "K4N10_R047"
+          ],
+          [
+            "K4N8_R026",
+            "K6N8_R049",
+            "K4N10_R049",
+            "K6N10_R050",
+            "K6N10_R047",
+            "K4N10_R047",
+            "K6N8_R047"
+          ],
+          [
+            "K4N8_R026",
+            "K6N8_R049",
+            "K4N10_R049",
+            "K6N10_R050",
+            "K6N10_R047",
+            "K4N10_R047",
+            "K6N8_R047",
+            "K6N10_R052"
+          ]
+        ],
+        "prior_reference_scope": "all_outer_training_groups",
+        "prototype_mapping_status": "not_used_prior_only",
+        "reference_group_count": 274,
+        "requested_budget": 8,
+        "target_ppr_count": 0,
+        "target_qor_access_count": 0
+      },
+      "prefixes": [
+        [
+          "K4N8_R026"
+        ],
+        [
+          "K4N8_R026",
+          "K6N8_R049"
+        ],
+        [
+          "K4N8_R026",
+          "K6N8_R049",
+          "K4N10_R049"
+        ],
+        [
+          "K4N8_R026",
+          "K6N8_R049",
+          "K4N10_R049",
+          "K6N10_R050"
+        ],
+        [
+          "K4N8_R026",
+          "K6N8_R049",
+          "K4N10_R049",
+          "K6N10_R050",
+          "K6N10_R047"
+        ],
+        [
+          "K4N8_R026",
+          "K6N8_R049",
+          "K4N10_R049",
+          "K6N10_R050",
+          "K6N10_R047",
+          "K4N10_R047"
+        ],
+        [
+          "K4N8_R026",
+          "K6N8_R049",
+          "K4N10_R049",
+          "K6N10_R050",
+          "K6N10_R047",
+          "K4N10_R047",
+          "K6N8_R047"
+        ],
+        [
+          "K4N8_R026",
+          "K6N8_R049",
+          "K4N10_R049",
+          "K6N10_R050",
+          "K6N10_R047",
+          "K4N10_R047",
+          "K6N8_R047",
+          "K6N10_R052"
+        ]
+      ],
+      "selected_ids": [
+        "K4N8_R026",
+        "K6N8_R049",
+        "K4N10_R049",
+        "K6N10_R050",
+        "K6N10_R047",
+        "K4N10_R047",
+        "K6N8_R047",
+        "K6N10_R052"
+      ],
+      "trace": [
+        {
+          "candidate_id": "K4N8_R026",
+          "fusion_score": 1.0,
+          "gain_rank": 1.0,
+          "group_cond_gain": 0.34246909060412284,
+          "policy": "group_candidate_prior",
+          "prior_rank": 1.0,
+          "prior_score": 2.322249797653233,
+          "reference_mean_gain": 0.3424690906041229,
+          "remaining_count": 208,
+          "step": 1
+        },
+        {
+          "candidate_id": "K6N8_R049",
+          "fusion_score": 0.9902912621359223,
+          "gain_rank": 0.9902912621359223,
+          "group_cond_gain": 0.19747485236111428,
+          "policy": "group_candidate_prior",
+          "prior_rank": 1.0,
+          "prior_score": 1.13606184450928,
+          "reference_mean_gain": 0.19747485236111428,
+          "remaining_count": 207,
+          "step": 2
+        },
+        {
+          "candidate_id": "K4N10_R049",
+          "fusion_score": 0.9853658536585366,
+          "gain_rank": 0.9853658536585366,
+          "group_cond_gain": 0.1257559474764507,
+          "policy": "group_candidate_prior",
+          "prior_rank": 1.0,
+          "prior_score": 1.174402924077699,
+          "reference_mean_gain": 0.12575594747645072,
+          "remaining_count": 206,
+          "step": 3
+        },
+        {
+          "candidate_id": "K6N10_R050",
+          "fusion_score": 0.9901960784313726,
+          "gain_rank": 0.9901960784313726,
+          "group_cond_gain": 0.1297225426064904,
+          "policy": "group_candidate_prior",
+          "prior_rank": 1.0,
+          "prior_score": 1.2450750476957986,
+          "reference_mean_gain": 0.1297225426064904,
+          "remaining_count": 205,
+          "step": 4
+        },
+        {
+          "candidate_id": "K6N10_R047",
+          "fusion_score": 0.8423645320197044,
+          "gain_rank": 0.8423645320197044,
+          "group_cond_gain": 0.02134435317800052,
+          "policy": "group_candidate_prior",
+          "prior_rank": 1.0,
+          "prior_score": 1.1310829225003267,
+          "reference_mean_gain": 0.02134435317800052,
+          "remaining_count": 204,
+          "step": 5
+        },
+        {
+          "candidate_id": "K4N10_R047",
+          "fusion_score": 0.7425742574257426,
+          "gain_rank": 0.7425742574257426,
+          "group_cond_gain": 0.014017837633167803,
+          "policy": "group_candidate_prior",
+          "prior_rank": 1.0,
+          "prior_score": 0.6188976337931466,
+          "reference_mean_gain": 0.014017837633167806,
+          "remaining_count": 203,
+          "step": 6
+        },
+        {
+          "candidate_id": "K6N8_R047",
+          "fusion_score": 0.9104477611940298,
+          "gain_rank": 0.9104477611940298,
+          "group_cond_gain": 0.02509657890072747,
+          "policy": "group_candidate_prior",
+          "prior_rank": 1.0,
+          "prior_score": 0.2337214812880465,
+          "reference_mean_gain": 0.025096578900727477,
+          "remaining_count": 202,
+          "step": 7
+        },
+        {
+          "candidate_id": "K6N10_R052",
+          "fusion_score": 0.835,
+          "gain_rank": 0.835,
+          "group_cond_gain": 0.01583381758659106,
+          "policy": "group_candidate_prior",
+          "prior_rank": 1.0,
+          "prior_score": -0.641068999199732,
+          "reference_mean_gain": 0.015833817586591064,
+          "remaining_count": 201,
+          "step": 8
+        }
+      ]
+    },
+    "group_fusion": {
+      "diagnostics": {
+        "candidate_count": 208,
+        "effective_budget": 8,
+        "elapsed_seconds": 0.05664269998669624,
+        "failure_replacement": false,
+        "fusion_conditional_gain_weight": 0.5,
+        "fusion_prior_weight": 0.5,
+        "history_smoothing": 0.35,
+        "history_weight_max": 0.04221525874745034,
+        "history_weight_min": 0.001407175291581678,
+        "history_weight_sum": 1.0,
+        "policy": "group_fusion",
+        "prefixes": [
+          [
+            "K4N8_R049"
+          ],
+          [
+            "K4N8_R049",
+            "K6N8_R049"
+          ],
+          [
+            "K4N8_R049",
+            "K6N8_R049",
+            "K6N10_R047"
+          ],
+          [
+            "K4N8_R049",
+            "K6N8_R049",
+            "K6N10_R047",
+            "K4N10_R049"
+          ],
+          [
+            "K4N8_R049",
+            "K6N8_R049",
+            "K6N10_R047",
+            "K4N10_R049",
+            "K6N10_R048"
+          ],
+          [
+            "K4N8_R049",
+            "K6N8_R049",
+            "K6N10_R047",
+            "K4N10_R049",
+            "K6N10_R048",
+            "K6N8_R047"
+          ],
+          [
+            "K4N8_R049",
+            "K6N8_R049",
+            "K6N10_R047",
+            "K4N10_R049",
+            "K6N10_R048",
+            "K6N8_R047",
+            "K4N10_R026"
+          ],
+          [
+            "K4N8_R049",
+            "K6N8_R049",
+            "K6N10_R047",
+            "K4N10_R049",
+            "K6N10_R048",
+            "K6N8_R047",
+            "K4N10_R026",
+            "K4N8_R026"
+          ]
+        ],
+        "prior_reference_scope": "all_outer_training_groups",
+        "prototype_balance_support": {
+          "0": 0.37385964912280695,
+          "1": 0.3509774436090225,
+          "2": 0.1050877192982456,
+          "3": 0.1700751879699248
+        },
+        "prototype_mapping_status": "supported",
+        "prototype_probability": {
+          "0": 0.26961223768856424,
+          "1": 0.25530589289990424,
+          "2": 0.35679067329262826,
+          "3": 0.11829119611890354
+        },
+        "reference_group_count": 274,
+        "requested_budget": 8,
+        "target_ppr_count": 0,
+        "target_qor_access_count": 0
+      },
+      "prefixes": [
+        [
+          "K4N8_R049"
+        ],
+        [
+          "K4N8_R049",
+          "K6N8_R049"
+        ],
+        [
+          "K4N8_R049",
+          "K6N8_R049",
+          "K6N10_R047"
+        ],
+        [
+          "K4N8_R049",
+          "K6N8_R049",
+          "K6N10_R047",
+          "K4N10_R049"
+        ],
+        [
+          "K4N8_R049",
+          "K6N8_R049",
+          "K6N10_R047",
+          "K4N10_R049",
+          "K6N10_R048"
+        ],
+        [
+          "K4N8_R049",
+          "K6N8_R049",
+          "K6N10_R047",
+          "K4N10_R049",
+          "K6N10_R048",
+          "K6N8_R047"
+        ],
+        [
+          "K4N8_R049",
+          "K6N8_R049",
+          "K6N10_R047",
+          "K4N10_R049",
+          "K6N10_R048",
+          "K6N8_R047",
+          "K4N10_R026"
+        ],
+        [
+          "K4N8_R049",
+          "K6N8_R049",
+          "K6N10_R047",
+          "K4N10_R049",
+          "K6N10_R048",
+          "K6N8_R047",
+          "K4N10_R026",
+          "K4N8_R026"
+        ]
+      ],
+      "selected_ids": [
+        "K4N8_R049",
+        "K6N8_R049",
+        "K6N10_R047",
+        "K4N10_R049",
+        "K6N10_R048",
+        "K6N8_R047",
+        "K4N10_R026",
+        "K4N8_R026"
+      ],
+      "trace": [
+        {
+          "candidate_id": "K4N8_R049",
+          "fusion_score": 0.9951690821256038,
+          "gain_rank": 1.0,
+          "group_cond_gain": 0.31870020508163704,
+          "policy": "group_fusion",
+          "prior_rank": 0.9951690821256038,
+          "prior_score": 1.5347032251789674,
+          "reference_mean_gain": 0.3107696220760391,
+          "remaining_count": 208,
+          "step": 1
+        },
+        {
+          "candidate_id": "K6N8_R049",
+          "fusion_score": 0.980676783862758,
+          "gain_rank": 0.9902912621359223,
+          "group_cond_gain": 0.1928301530437292,
+          "policy": "group_fusion",
+          "prior_rank": 0.9902912621359223,
+          "prior_score": 0.9348603565574501,
+          "reference_mean_gain": 0.20192758235401043,
+          "remaining_count": 207,
+          "step": 2
+        },
+        {
+          "candidate_id": "K6N10_R047",
+          "fusion_score": 0.9951219512195122,
+          "gain_rank": 1.0,
+          "group_cond_gain": 0.15490481272931234,
+          "policy": "group_fusion",
+          "prior_rank": 0.9951219512195122,
+          "prior_score": 0.8327743078870335,
+          "reference_mean_gain": 0.14664817295245547,
+          "remaining_count": 206,
+          "step": 3
+        },
+        {
+          "candidate_id": "K4N10_R049",
+          "fusion_score": 0.9950980392156863,
+          "gain_rank": 1.0,
+          "group_cond_gain": 0.13524435238890214,
+          "policy": "group_fusion",
+          "prior_rank": 0.9950980392156863,
+          "prior_score": 0.853258620327726,
+          "reference_mean_gain": 0.14065749954519294,
+          "remaining_count": 205,
+          "step": 4
+        },
+        {
+          "candidate_id": "K6N10_R048",
+          "fusion_score": 0.9802955665024631,
+          "gain_rank": 1.0,
+          "group_cond_gain": 0.06194485586315654,
+          "policy": "group_fusion",
+          "prior_rank": 0.9802955665024631,
+          "prior_score": -0.4526978566864741,
+          "reference_mean_gain": 0.06502807487760909,
+          "remaining_count": 204,
+          "step": 5
+        },
+        {
+          "candidate_id": "K6N8_R047",
+          "fusion_score": 0.9705175963140869,
+          "gain_rank": 0.9851485148514851,
+          "group_cond_gain": 0.02582251961440445,
+          "policy": "group_fusion",
+          "prior_rank": 0.9851485148514851,
+          "prior_score": -0.391905938768804,
+          "reference_mean_gain": 0.015151302969962597,
+          "remaining_count": 203,
+          "step": 6
+        },
+        {
+          "candidate_id": "K4N10_R026",
+          "fusion_score": 0.9801737580752952,
+          "gain_rank": 0.9950248756218906,
+          "group_cond_gain": 0.03357119283325155,
+          "policy": "group_fusion",
+          "prior_rank": 0.9850746268656716,
+          "prior_score": -0.8751773198914364,
+          "reference_mean_gain": 0.04096294262967671,
+          "remaining_count": 202,
+          "step": 7
+        },
+        {
+          "candidate_id": "K4N8_R026",
+          "fusion_score": 0.99,
+          "gain_rank": 1.0,
+          "group_cond_gain": 0.018697602742593408,
+          "policy": "group_fusion",
+          "prior_rank": 0.99,
+          "prior_score": -1.751893989298706,
+          "reference_mean_gain": 0.02282259177080402,
+          "remaining_count": 201,
+          "step": 8
+        }
+      ]
+    }
+  },
+  "protocol_sha256": "24d5c55a9acd96cd2996d3bb7bb8ef4b11aa2f45086781dfe725d33e6d0976da",
+  "scene_id": "cipher_datapath",
+  "sensitivity": false,
+  "shortlist_frozen_at": "2026-10-27T12:33:42.522764+00:00",
+  "source_code_sha256": {
+    "known_set_features.py": "cc6096ae54b6b499427f99079b410f15789cfd8e05a974d5751b1890c33d0b1a",
+    "known_set_learning_v3.py": "faa4076750973da62ab501cfb7eac8ccae059888d9818c5bd96ea7a9c2c4b9cd",
+    "known_set_recommend_v3.py": "b42a0ad3d76b2369adf42b9f7a34ec6df9046f0db85f32cc53b09d0005ee205c"
+  },
+  "target_vector_dimension": 61,
+  "task_id": "snpf4fpga-known-set-shared-parameters-v1"
+}

@@ -1,0 +1,8 @@
+{
+  "group_id": "external_weighted4",
+  "model_sha256": "0e5558c00474ff4c5198344e72944e07b4d2946d843f7cbe0dbe58bd607c47a4",
+  "protocol_sha256": "24d5c55a9acd96cd2996d3bb7bb8ef4b11aa2f45086781dfe725d33e6d0976da",
+  "shortlist_frozen_at": "2026-10-27T12:33:42.095130+00:00",
+  "shortlist_sha256": "69bd6371a8cd04f94cba4b19f39a25f456a8b4a1c4cb5fa5fa1b472434c349c4",
+  "task_id": "snpf4fpga-known-set-shared-parameters-v1"
+}

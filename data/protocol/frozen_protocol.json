@@ -1,0 +1,658 @@
+{
+  "area_column": "full_total_area_br_eta07",
+  "candidate_semantics": "same_K_N_r_plus_declared_compatible_resource_rule_not_fixed_core",
+  "cpd_column": "cpd_ns",
+  "date": "2026-10-12",
+  "evidence_identity": "locked_retrospective_not_prospective",
+  "family_links": [
+    {
+      "members": [
+        "ctrl/VexRiscvSmallAndProductive_vtr",
+        "ctrl/VexRiscvSmallest_vtr"
+      ],
+      "reason": "已核实的Vex配置变体",
+      "status": "verified_config_variant"
+    },
+    {
+      "members": [
+        "ml/tpu_like.small.os_koios",
+        "ml/tpu_like.small.ws_koios"
+      ],
+      "reason": "已核实的TPU数据流配置变体",
+      "status": "verified_config_variant"
+    },
+    {
+      "members": [
+        "crypto/aes_cipher_vtr",
+        "crypto/aes_inv_cipher_vtr"
+      ],
+      "reason": "OpenCores AES正逆共享core/keyexpand源",
+      "status": "conservative_shared_source"
+    },
+    {
+      "members": [
+        "dsp/stereovision0_vtr",
+        "dsp/stereovision1_vtr",
+        "dsp/stereovision2_vtr",
+        "dsp/stereovision3_vtr"
+      ],
+      "reason": "同一视觉系统分区；第3分区关系保守处理",
+      "status": "conservative_system_partition"
+    },
+    {
+      "members": [
+        "dsp/diffeq1_vtr",
+        "dsp/diffeq2_vtr"
+      ],
+      "reason": "相关迭代算术；未认证同一生成器",
+      "status": "conservative_related_workload"
+    },
+    {
+      "members": [
+        "ctrl/uriscv_core_vtr",
+        "ctrl/ultraembedded_riscv"
+      ],
+      "reason": "UltraEmbedded两个RISC-V来源的继承风险，不宣称主体相同",
+      "status": "conservative_cross_cohort_risk"
+    }
+  ],
+  "feature_schema_id": "snpf4fpga-known-set-features-v1",
+  "folds": [
+    {
+      "excluded_members": [
+        "comm/fpga_can",
+        "comm/i2s_rx",
+        "comm/spi_apb",
+        "crypto/secworks_ascon",
+        "crypto/secworks_gift",
+        "crypto/secworks_qarma",
+        "crypto/secworks_sha512",
+        "ctrl/darkriscv",
+        "ctrl/mips_16_vtr",
+        "ctrl/ultraembedded_riscv",
+        "ctrl/uriscv_core_vtr",
+        "dsp/epfl_div",
+        "dsp/epfl_sqrt",
+        "dsp/zipcpu_boxcar",
+        "dsp/zipcpu_slowfil",
+        "ml/koios_bwave_fixed_small",
+        "ml/koios_clstm_small",
+        "ml/koios_dnnweaver",
+        "ml/koios_lstm"
+      ],
+      "group_sizes": [
+        2,
+        3,
+        4
+      ],
+      "historical_group_count": 274,
+      "model_id": "final_shared",
+      "source_support_status": "known_and_conservative_links_not_full_lineage_audit",
+      "target_members": [
+        "comm/fpga_can",
+        "comm/i2s_rx",
+        "comm/spi_apb",
+        "crypto/secworks_ascon",
+        "crypto/secworks_gift",
+        "crypto/secworks_qarma",
+        "crypto/secworks_sha512",
+        "ctrl/darkriscv",
+        "ctrl/ultraembedded_riscv",
+        "dsp/epfl_div",
+        "dsp/epfl_sqrt",
+        "dsp/zipcpu_boxcar",
+        "dsp/zipcpu_slowfil",
+        "ml/koios_bwave_fixed_small",
+        "ml/koios_clstm_small",
+        "ml/koios_dnnweaver",
+        "ml/koios_lstm"
+      ],
+      "train_members": [
+        "comm/alex_i2c",
+        "comm/alex_uart",
+        "comm/mmc_core_vtr",
+        "comm/opencores_simple_spi",
+        "comm/uart16550",
+        "comm/usb_uart_core_vtr",
+        "crypto/aes_cipher_vtr",
+        "crypto/aes_inv_cipher_vtr",
+        "crypto/opencores_des3",
+        "crypto/secworks_aes",
+        "crypto/secworks_blake2s",
+        "crypto/secworks_chacha",
+        "crypto/secworks_md5",
+        "crypto/secworks_prince",
+        "crypto/secworks_sha256",
+        "crypto/secworks_sha3",
+        "crypto/sha_vtr",
+        "crypto/xtea_vtr",
+        "ctrl/8051_vtr",
+        "ctrl/VexRiscvSmallAndProductive_vtr",
+        "ctrl/VexRiscvSmallest_vtr",
+        "ctrl/or1200_vtr",
+        "ctrl/picorv32",
+        "ctrl/serv",
+        "ctrl/spree_vtr",
+        "dsp/blob_merge_vtr",
+        "dsp/cordic",
+        "dsp/diffeq1_vtr",
+        "dsp/diffeq2_vtr",
+        "dsp/stereovision0_vtr",
+        "dsp/stereovision1_vtr",
+        "dsp/stereovision2_vtr",
+        "dsp/stereovision3_vtr",
+        "ml/attention_layer_koios",
+        "ml/conv_layer_hls_koios",
+        "ml/conv_layer_koios",
+        "ml/eltwise_layer_koios",
+        "ml/reduction_layer_koios",
+        "ml/softmax_koios",
+        "ml/spmv_koios",
+        "ml/tpu_like.small.os_koios",
+        "ml/tpu_like.small.ws_koios"
+      ]
+    },
+    {
+      "excluded_members": [
+        "crypto/aes_cipher_vtr",
+        "crypto/aes_inv_cipher_vtr",
+        "crypto/opencores_des3",
+        "crypto/secworks_chacha",
+        "crypto/secworks_prince",
+        "ctrl/mips_16_vtr",
+        "ctrl/ultraembedded_riscv",
+        "ctrl/uriscv_core_vtr"
+      ],
+      "group_sizes": [
+        2,
+        3,
+        4
+      ],
+      "historical_group_count": 200,
+      "model_id": "historical_cipher4",
+      "source_support_status": "known_and_conservative_links_not_full_lineage_audit",
+      "target_members": [
+        "crypto/aes_cipher_vtr",
+        "crypto/opencores_des3",
+        "crypto/secworks_chacha",
+        "crypto/secworks_prince"
+      ],
+      "train_members": [
+        "comm/alex_i2c",
+        "comm/alex_uart",
+        "comm/mmc_core_vtr",
+        "comm/opencores_simple_spi",
+        "comm/uart16550",
+        "comm/usb_uart_core_vtr",
+        "crypto/secworks_aes",
+        "crypto/secworks_blake2s",
+        "crypto/secworks_md5",
+        "crypto/secworks_sha256",
+        "crypto/secworks_sha3",
+        "crypto/sha_vtr",
+        "crypto/xtea_vtr",
+        "ctrl/8051_vtr",
+        "ctrl/VexRiscvSmallAndProductive_vtr",
+        "ctrl/VexRiscvSmallest_vtr",
+        "ctrl/or1200_vtr",
+        "ctrl/picorv32",
+        "ctrl/serv",
+        "ctrl/spree_vtr",
+        "dsp/blob_merge_vtr",
+        "dsp/cordic",
+        "dsp/diffeq1_vtr",
+        "dsp/diffeq2_vtr",
+        "dsp/stereovision0_vtr",
+        "dsp/stereovision1_vtr",
+        "dsp/stereovision2_vtr",
+        "dsp/stereovision3_vtr",
+        "ml/attention_layer_koios",
+        "ml/conv_layer_hls_koios",
+        "ml/conv_layer_koios",
+        "ml/eltwise_layer_koios",
+        "ml/reduction_layer_koios",
+        "ml/softmax_koios",
+        "ml/spmv_koios",
+        "ml/tpu_like.small.os_koios",
+        "ml/tpu_like.small.ws_koios"
+      ]
+    },
+    {
+      "excluded_members": [
+        "ctrl/mips_16_vtr",
+        "ctrl/picorv32",
+        "ctrl/serv",
+        "ctrl/ultraembedded_riscv",
+        "ctrl/uriscv_core_vtr"
+      ],
+      "group_sizes": [
+        2,
+        3,
+        4
+      ],
+      "historical_group_count": 217,
+      "model_id": "historical_cpu2",
+      "source_support_status": "known_and_conservative_links_not_full_lineage_audit",
+      "target_members": [
+        "ctrl/picorv32",
+        "ctrl/serv"
+      ],
+      "train_members": [
+        "comm/alex_i2c",
+        "comm/alex_uart",
+        "comm/mmc_core_vtr",
+        "comm/opencores_simple_spi",
+        "comm/uart16550",
+        "comm/usb_uart_core_vtr",
+        "crypto/aes_cipher_vtr",
+        "crypto/aes_inv_cipher_vtr",
+        "crypto/opencores_des3",
+        "crypto/secworks_aes",
+        "crypto/secworks_blake2s",
+        "crypto/secworks_chacha",
+        "crypto/secworks_md5",
+        "crypto/secworks_prince",
+        "crypto/secworks_sha256",
+        "crypto/secworks_sha3",
+        "crypto/sha_vtr",
+        "crypto/xtea_vtr",
+        "ctrl/8051_vtr",
+        "ctrl/VexRiscvSmallAndProductive_vtr",
+        "ctrl/VexRiscvSmallest_vtr",
+        "ctrl/or1200_vtr",
+        "ctrl/spree_vtr",
+        "dsp/blob_merge_vtr",
+        "dsp/cordic",
+        "dsp/diffeq1_vtr",
+        "dsp/diffeq2_vtr",
+        "dsp/stereovision0_vtr",
+        "dsp/stereovision1_vtr",
+        "dsp/stereovision2_vtr",
+        "dsp/stereovision3_vtr",
+        "ml/attention_layer_koios",
+        "ml/conv_layer_hls_koios",
+        "ml/conv_layer_koios",
+        "ml/eltwise_layer_koios",
+        "ml/reduction_layer_koios",
+        "ml/softmax_koios",
+        "ml/spmv_koios",
+        "ml/tpu_like.small.os_koios",
+        "ml/tpu_like.small.ws_koios"
+      ]
+    },
+    {
+      "excluded_members": [
+        "comm/alex_i2c",
+        "comm/opencores_simple_spi",
+        "comm/uart16550",
+        "ctrl/mips_16_vtr",
+        "ctrl/ultraembedded_riscv",
+        "ctrl/uriscv_core_vtr"
+      ],
+      "group_sizes": [
+        2,
+        3,
+        4
+      ],
+      "historical_group_count": 228,
+      "model_id": "historical_serial3",
+      "source_support_status": "known_and_conservative_links_not_full_lineage_audit",
+      "target_members": [
+        "comm/alex_i2c",
+        "comm/opencores_simple_spi",
+        "comm/uart16550"
+      ],
+      "train_members": [
+        "comm/alex_uart",
+        "comm/mmc_core_vtr",
+        "comm/usb_uart_core_vtr",
+        "crypto/aes_cipher_vtr",
+        "crypto/aes_inv_cipher_vtr",
+        "crypto/opencores_des3",
+        "crypto/secworks_aes",
+        "crypto/secworks_blake2s",
+        "crypto/secworks_chacha",
+        "crypto/secworks_md5",
+        "crypto/secworks_prince",
+        "crypto/secworks_sha256",
+        "crypto/secworks_sha3",
+        "crypto/sha_vtr",
+        "crypto/xtea_vtr",
+        "ctrl/8051_vtr",
+        "ctrl/VexRiscvSmallAndProductive_vtr",
+        "ctrl/VexRiscvSmallest_vtr",
+        "ctrl/or1200_vtr",
+        "ctrl/picorv32",
+        "ctrl/serv",
+        "ctrl/spree_vtr",
+        "dsp/blob_merge_vtr",
+        "dsp/cordic",
+        "dsp/diffeq1_vtr",
+        "dsp/diffeq2_vtr",
+        "dsp/stereovision0_vtr",
+        "dsp/stereovision1_vtr",
+        "dsp/stereovision2_vtr",
+        "dsp/stereovision3_vtr",
+        "ml/attention_layer_koios",
+        "ml/conv_layer_hls_koios",
+        "ml/conv_layer_koios",
+        "ml/eltwise_layer_koios",
+        "ml/reduction_layer_koios",
+        "ml/softmax_koios",
+        "ml/spmv_koios",
+        "ml/tpu_like.small.os_koios",
+        "ml/tpu_like.small.ws_koios"
+      ]
+    },
+    {
+      "excluded_members": [
+        "ctrl/mips_16_vtr",
+        "ctrl/ultraembedded_riscv",
+        "ctrl/uriscv_core_vtr",
+        "ml/attention_layer_koios",
+        "ml/conv_layer_koios"
+      ],
+      "group_sizes": [
+        2,
+        3,
+        4
+      ],
+      "historical_group_count": 242,
+      "model_id": "historical_weighted2",
+      "source_support_status": "known_and_conservative_links_not_full_lineage_audit",
+      "target_members": [
+        "ml/attention_layer_koios",
+        "ml/conv_layer_koios"
+      ],
+      "train_members": [
+        "comm/alex_i2c",
+        "comm/alex_uart",
+        "comm/mmc_core_vtr",
+        "comm/opencores_simple_spi",
+        "comm/uart16550",
+        "comm/usb_uart_core_vtr",
+        "crypto/aes_cipher_vtr",
+        "crypto/aes_inv_cipher_vtr",
+        "crypto/opencores_des3",
+        "crypto/secworks_aes",
+        "crypto/secworks_blake2s",
+        "crypto/secworks_chacha",
+        "crypto/secworks_md5",
+        "crypto/secworks_prince",
+        "crypto/secworks_sha256",
+        "crypto/secworks_sha3",
+        "crypto/sha_vtr",
+        "crypto/xtea_vtr",
+        "ctrl/8051_vtr",
+        "ctrl/VexRiscvSmallAndProductive_vtr",
+        "ctrl/VexRiscvSmallest_vtr",
+        "ctrl/or1200_vtr",
+        "ctrl/picorv32",
+        "ctrl/serv",
+        "ctrl/spree_vtr",
+        "dsp/blob_merge_vtr",
+        "dsp/cordic",
+        "dsp/diffeq1_vtr",
+        "dsp/diffeq2_vtr",
+        "dsp/stereovision0_vtr",
+        "dsp/stereovision1_vtr",
+        "dsp/stereovision2_vtr",
+        "dsp/stereovision3_vtr",
+        "ml/conv_layer_hls_koios",
+        "ml/eltwise_layer_koios",
+        "ml/reduction_layer_koios",
+        "ml/softmax_koios",
+        "ml/spmv_koios",
+        "ml/tpu_like.small.os_koios",
+        "ml/tpu_like.small.ws_koios"
+      ]
+    },
+    {
+      "excluded_members": [
+        "ctrl/mips_16_vtr",
+        "ctrl/ultraembedded_riscv",
+        "ctrl/uriscv_core_vtr",
+        "ml/attention_layer_koios",
+        "ml/conv_layer_koios",
+        "ml/eltwise_layer_koios",
+        "ml/koios_bwave_fixed_small",
+        "ml/koios_clstm_small",
+        "ml/koios_dnnweaver",
+        "ml/koios_lstm",
+        "ml/reduction_layer_koios",
+        "ml/softmax_koios",
+        "ml/tpu_like.small.os_koios",
+        "ml/tpu_like.small.ws_koios"
+      ],
+      "group_sizes": [
+        2,
+        3,
+        4
+      ],
+      "historical_group_count": 232,
+      "model_id": "nn_source_conservative",
+      "source_support_status": "known_and_conservative_links_not_full_lineage_audit",
+      "target_members": [
+        "ml/koios_bwave_fixed_small",
+        "ml/koios_clstm_small",
+        "ml/koios_dnnweaver",
+        "ml/koios_lstm"
+      ],
+      "train_members": [
+        "comm/alex_i2c",
+        "comm/alex_uart",
+        "comm/mmc_core_vtr",
+        "comm/opencores_simple_spi",
+        "comm/uart16550",
+        "comm/usb_uart_core_vtr",
+        "crypto/aes_cipher_vtr",
+        "crypto/aes_inv_cipher_vtr",
+        "crypto/opencores_des3",
+        "crypto/secworks_aes",
+        "crypto/secworks_blake2s",
+        "crypto/secworks_chacha",
+        "crypto/secworks_md5",
+        "crypto/secworks_prince",
+        "crypto/secworks_sha256",
+        "crypto/secworks_sha3",
+        "crypto/sha_vtr",
+        "crypto/xtea_vtr",
+        "ctrl/8051_vtr",
+        "ctrl/VexRiscvSmallAndProductive_vtr",
+        "ctrl/VexRiscvSmallest_vtr",
+        "ctrl/or1200_vtr",
+        "ctrl/picorv32",
+        "ctrl/serv",
+        "ctrl/spree_vtr",
+        "dsp/blob_merge_vtr",
+        "dsp/cordic",
+        "dsp/diffeq1_vtr",
+        "dsp/diffeq2_vtr",
+        "dsp/stereovision0_vtr",
+        "dsp/stereovision1_vtr",
+        "dsp/stereovision2_vtr",
+        "dsp/stereovision3_vtr",
+        "ml/conv_layer_hls_koios",
+        "ml/spmv_koios"
+      ]
+    }
+  ],
+  "global_excluded_reasons": {
+    "ctrl/mips_16_vtr": "当前综合实例有仿真ROM/极小规模，保留有意义CPU逻辑尚待核查",
+    "ctrl/uriscv_core_vtr": "额外处理器目标的跨队列继承风险，共享最终库保守排除"
+  },
+  "group_feature_dimension": 61,
+  "group_library": "enumerate_trusted_same_function_distinct_isolation_units_sizes_2_3_4_after_exclusion",
+  "historical_weighting": "equal_nonempty_function_by_group_size_cells",
+  "information_boundary": {
+    "all_target_netlists_visible": true,
+    "fixed_physical_core": false,
+    "output": "one_common_parameter_portfolio",
+    "target_ppr_calls": 0,
+    "target_qor_visible": false
+  },
+  "member_feature_dimension": 30,
+  "nn_source_risk_status": "shared_author_or_module_background_risk_not_proof_of_same_family",
+  "nn_source_sensitivity_excluded": [
+    "ml/attention_layer_koios",
+    "ml/conv_layer_koios",
+    "ml/tpu_like.small.os_koios",
+    "ml/tpu_like.small.ws_koios",
+    "ml/eltwise_layer_koios",
+    "ml/reduction_layer_koios",
+    "ml/softmax_koios"
+  ],
+  "parameters": {
+    "archetypes": 4,
+    "budget_max": 8,
+    "classifier_depth": 3,
+    "classifier_min_leaf": 4,
+    "classifier_trees": 500,
+    "epsilon": 0.03,
+    "fusion_weight": 0.5,
+    "lambda": 0.35,
+    "ranker_depth": 5,
+    "ranker_feature_fraction": 0.85,
+    "ranker_l2": 3,
+    "ranker_learning_rate": 0.03,
+    "ranker_leaves": 15,
+    "ranker_min_leaf": 80,
+    "ranker_rounds": 300,
+    "svd_rank": 8,
+    "threads": 1
+  },
+  "qor_sources_scoring_and_history_only": {
+    "extra": "source_snapshot/fpga_domain_dse/confirmation_v1/results/confirmation_evaluation_v1/confirm_v1_planned_qor.csv",
+    "history": "source_snapshot/fpga_domain_dse/results/canonical_v2_static_learning_matrix/canonical_v2_static_learning_matrix.csv"
+  },
+  "seed": 20261012,
+  "strict_full_source_independence_claim": false,
+  "targets": [
+    {
+      "cohort": "extra",
+      "group_id": "external_serial3",
+      "members": [
+        "comm/fpga_can",
+        "comm/spi_apb",
+        "comm/i2s_rx"
+      ],
+      "model_id": "final_shared",
+      "scene_id": "serial_peripheral"
+    },
+    {
+      "cohort": "extra",
+      "group_id": "external_cpu2",
+      "members": [
+        "ctrl/darkriscv",
+        "ctrl/ultraembedded_riscv"
+      ],
+      "model_id": "final_shared",
+      "scene_id": "processor"
+    },
+    {
+      "cohort": "extra",
+      "group_id": "external_weighted4",
+      "members": [
+        "ml/koios_bwave_fixed_small",
+        "ml/koios_clstm_small",
+        "ml/koios_dnnweaver",
+        "ml/koios_lstm"
+      ],
+      "model_id": "final_shared",
+      "scale_ood": true,
+      "scene_id": "weighted_compute",
+      "source_risk_pending": true
+    },
+    {
+      "cohort": "extra",
+      "group_id": "external_cipher4",
+      "members": [
+        "crypto/secworks_ascon",
+        "crypto/secworks_gift",
+        "crypto/secworks_qarma",
+        "crypto/secworks_sha512"
+      ],
+      "model_id": "final_shared",
+      "scene_id": "cipher_datapath"
+    },
+    {
+      "cohort": "extra",
+      "group_id": "external_dsp_zipcpu2",
+      "members": [
+        "dsp/zipcpu_boxcar",
+        "dsp/zipcpu_slowfil"
+      ],
+      "model_id": "final_shared",
+      "scene_id": "arithmetic_iteration"
+    },
+    {
+      "cohort": "extra",
+      "group_id": "external_dsp_epfl2",
+      "members": [
+        "dsp/epfl_div",
+        "dsp/epfl_sqrt"
+      ],
+      "model_id": "final_shared",
+      "scene_id": "arithmetic_iteration"
+    },
+    {
+      "cohort": "history",
+      "group_id": "historical_serial3",
+      "members": [
+        "comm/alex_i2c",
+        "comm/opencores_simple_spi",
+        "comm/uart16550"
+      ],
+      "model_id": "historical_serial3",
+      "scene_id": "serial_peripheral"
+    },
+    {
+      "cohort": "history",
+      "group_id": "historical_cpu2",
+      "members": [
+        "ctrl/picorv32",
+        "ctrl/serv"
+      ],
+      "model_id": "historical_cpu2",
+      "scene_id": "processor"
+    },
+    {
+      "cohort": "history",
+      "group_id": "historical_weighted2",
+      "members": [
+        "ml/attention_layer_koios",
+        "ml/conv_layer_koios"
+      ],
+      "model_id": "historical_weighted2",
+      "scene_id": "weighted_compute"
+    },
+    {
+      "cohort": "history",
+      "group_id": "historical_cipher4",
+      "members": [
+        "crypto/aes_cipher_vtr",
+        "crypto/opencores_des3",
+        "crypto/secworks_chacha",
+        "crypto/secworks_prince"
+      ],
+      "model_id": "historical_cipher4",
+      "scene_id": "cipher_datapath"
+    },
+    {
+      "cohort": "extra",
+      "group_id": "sensitivity_weighted4_source",
+      "members": [
+        "ml/koios_bwave_fixed_small",
+        "ml/koios_clstm_small",
+        "ml/koios_dnnweaver",
+        "ml/koios_lstm"
+      ],
+      "model_id": "nn_source_conservative",
+      "scale_ood": true,
+      "scene_id": "weighted_compute",
+      "sensitivity": true
+    }
+  ],
+  "task_id": "snpf4fpga-known-set-shared-parameters-v1",
+  "tie_policy": "average_rank_then_gain_prior_id"
+}
